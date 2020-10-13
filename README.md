@@ -21,8 +21,8 @@ Within this repository, you will find:
   - Terms of Service
   - A Useful Storage Network
 - Roles & Responsibilities
-  - [Root Key Holders](https://github.com/filecoin-project/notary-governance/tree/main/root-key-holders#overview)
-  - [Notaries](https://github.com/filecoin-project/notary-governance/tree/main/notaries#overview)
+  - [Root Key Holders](/root-key-holders#overview)
+  - [Notaries](/notaries#overview)
   - Clients
 - Interaction Diagram
 
@@ -34,5 +34,5 @@ TBD
 ## Governance and Iteration Process 
 Within this repository are the governing documents, selection criteria, and processes for Notaries and Root Key Holders. Improvements to these documents and processes may be proposed via Pull Requests - where open discussion can happen asynchronously via the community. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
-On a regular cadence (tbd), a call will be scheduled for open decisioning of proposed changes with the final accepted changes to be merged by the editors of this repository. 
+On a regular cadence, a call will be scheduled for open decisioning of proposed changes with the final accepted changes to be merged by the editors of this repository. 
 
