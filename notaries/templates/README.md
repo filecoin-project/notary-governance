@@ -39,7 +39,7 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 **Sample Use cases**: 
 - Professional Services (Hosting Reseller, Digital Preservation, Long-term Backups, Long-term Log Storage)
 - Developer Tools (Package Managers, Automatic Notaries)
-- Decentralized Applications
+- Web 3.0 / Decentralized Applications
 - Web 2.0 Applications
 - User Content (Personal Storage, User Generated Media)
 - Scientific Data (Satellite Imagery, Geological Data, Computer Vision, Autonomous Driving) 
