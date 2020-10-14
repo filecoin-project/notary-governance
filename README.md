@@ -1,7 +1,7 @@
 # Notary Governance
 ⚠️⚠️⚠️ ***This is still Work In Progress but one can follow the repository for the latest discussion and changes. Please do not file any applications prior to the confirmation of the governing FIP and this repository.***
 
-The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP]() and illustrated in the following diagram.
+The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/fip-0003/FIPS/fip-0003.md) and illustrated in the following diagram.
 
 <img src="images/governance-layers.jpg" alt="governance-layers" width="70%" height="70%">
 
