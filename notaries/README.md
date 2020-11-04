@@ -18,7 +18,7 @@ As stated above, Notaries are given a high degree of autonomy in their decision 
 ## Application / Selection Process
 For those interested in providing this service to the Filecoin network, they may apply to this role by filing an Issue [here]().
 
-Please note, applications are reviewed on a regular cadence (tbd) basis - and will be graded according to this community defined [criteria](/notaries/templates#overview). Edits to the criteria, will follow the same process as any proposed change to this repository, defined [here](/README.md#process-for-modifications).
+Please note, applications are reviewed on a **biweekly basis (every other Tuesday starting 2020.11.11 at 5pm UTC)** - and will be graded according to this community defined [criteria](/notaries/templates#overview). Edits to the criteria, will follow the same process as any proposed change to this repository, defined [here](/README.md#process-for-modifications).
 
 To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. We propose this constraint to ensure any issues that arise early on in this process can be dealt with while introducing minimal impact. As this process stabalizes, we envision this constraint will be relaxed. 
 
