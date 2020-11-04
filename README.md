@@ -11,6 +11,7 @@ Within this repository, you will find:
 - Information on how to become a Notary, selection rubric, recommended guidelines, active Notaries.
 - Information on how to file a Dispute, and the steps for how disputes are resolved. 
 
+
 ## Overview
 - Principles
   - Decentralization and Diversity
@@ -34,7 +35,8 @@ TBD
 ## Governance and Iteration Process 
 Within this repository are the governing documents, selection criteria, and processes for Notaries and Root Key Holders. Improvements to these documents and processes may be proposed via Pull Requests - where open discussion can happen asynchronously via the community. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
-Our community governance call will take place **every other Tuesday (starting 2020.11.10) at 5pm UTC** for open decisioning of proposed changes with the final accepted changes to be merged by the editors of this repository.
-
-The calendar event can be found [here](), as well as being announced in the #fil-plus Slack room.
+Please note our community governance calls will take place every other **Tuesday (starting 2020.11.10) at 5pm UTC**. 
+- [Calendar event]()
+- [Zoom details]()
+- Please join our Slack channel, #fil-plus, if you have questions. 
 
