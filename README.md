@@ -36,7 +36,7 @@ TBD
 Within this repository are the governing documents, selection criteria, and processes for Notaries and Root Key Holders. Improvements to these documents and processes may be proposed via Pull Requests - where open discussion can happen asynchronously via the community. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
 Please note our community governance calls will take place every other **Tuesday (starting 2020.11.10) at 5pm UTC**. 
-- [Calendar event]()
-- [Zoom details]()
+- [Community Calendar](https://calendar.google.com/calendar/u/1?cid=Y19rMWdrZm9vbTE3ZzBqOGM2YmFtNnVmNDNqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Zoom link](https://protocol.zoom.us/j/93414028246), Passcode: 554538
 - Please join our Slack channel, #fil-plus, if you have questions. 
 
