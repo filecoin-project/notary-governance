@@ -47,7 +47,8 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 - Media & Entertainment
 - Other
 
-**Individual Reputation Note**
+**Individual Reputation Note**: 
+
 To qualify for this, the prospective Notary must post: 
 - A statement about being accepted as a Notary
 - A link to explain what a Notary is / Filecoin Plus
