@@ -16,7 +16,7 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 |Stake Exposure||100k tokens at stake|100-500k tokens at stake|1MM tokens at stake|5MM tokens at stake|10MM tokens at stake|
 |**Industry Reputation**| Max(In-protocol Reputation, In-protocol Security, Organization Reputation, Individual Reputation)|
 |In-protocol Reputation|| Reputable leader in Filecoin Ecosystem for > 6 mos |Reputable leader in Filecoin Ecosystem for 2 years |Reputable leader in Filecoin Ecosystem for 3 years |Reputable leader in Filecoin Ecosystem for 4 years|Reputable leader in Filecoin Ecosystem for 4+ years|
-|In-protocol Security|| Contributions in identifying, responsibly disclosing, and fixing security vulnerabilities in protocols or services in the Filecoin community | Sustained contributions for 2+ years in identifying, responsibly disclosing, and fixing **serious** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 2+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 3+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 4+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community|
+|In-protocol Security|| Contributions in identifying, responsibly disclosing, and fixing multiple **low** protocol or service vulnerabilities in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing multiple **medium** protocol or service vulnerabilities, in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing **high/critical** protocol or service vulnerabilities, in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing multiple **high/critical** protocol or service vulnerabilities, in the Filecoin community| L4 Requirements |
 |Organization Reputation|| Community Members | Reputable entities in Filecoin-adjacent communities with substantially adopted services / products (e.g. Supranational, Pinata, Infura) | Major organizations in Web3 (e.g. Polychain, Consensys) | Major organizations in Web2 and Web3 (e.g. Ethereum Foundation, Vimeo) | Household names / Publicly traded Institutions (e.g. Andreseen Horowitz, Netflix) | 
 |Individual Reputation||Has access to 2+ social media accounts which individually have audiences > 500 where they will post publicly about their status as a notary if approved|Has access to 2+ social media accounts which individually have audiences > 1000 where they will post publicly about their status as a notary if approved|Has access to 2+ accounts on social media accounts which individually have audiences > 10000 about their status as a notary if approved|-|-| 
 |**Diversity and Decentralization**| 0.7*(Geographic Distribution) + 0.3*(Use Case Diversity)|
@@ -47,7 +47,9 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 - Media & Entertainment
 - Other
 
-**Individual Reputation Note**: 
+**In-protocol Security**: Definitions for low/medium/high/critical map to the definitions [here](https://security.filecoin.io/bug-bounty/).
+
+**Individual Reputation**: 
 
 To qualify for this, the prospective Notary must post: 
 - A statement about being accepted as a Notary
