@@ -9,10 +9,10 @@ assignees: ''
 ## Issue Description
 
 
-##  Impact
+## Impact
 
 
-## Proposed Solution(s) 
+## Proposed Solution(s)
 
 
 ## Related Issues
