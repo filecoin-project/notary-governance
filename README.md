@@ -40,3 +40,16 @@ Please note our community governance calls will take place every other **Tuesday
 - [Zoom link](https://protocol.zoom.us/j/93414028246), Passcode: 554538
 - Please join our Slack channel, #fil-plus, if you have questions. 
 
+### Previous governance calls
+
+#### Recordings
+
+- 2020-11-10: [Meeting recording](https://protocol.zoom.us/rec/share/onal1SoxyEVAFADsPy-2Tbm6mOBlVQZVmjgaMUc-SzPQTCMLVNcHYbx5hCdGX2bo.H_Ya0D0gPqIqYexz)
+- 2020-11-17: [Meeting recording](https://protocol.zoom.us/rec/share/GdPgH6xqnZnIUDcZVC0nszmT5tb86gHDEQIO_6zpbwKJMbLV_7CXRuHcocnWOTMW.74rOS65a7Hl2g_Mi), Passcode: `V4VAr+7R`
+- 2020-11-24: [Meeting recording](https://protocol.zoom.us/rec/share/BNbrPGmr-lYIlamUAs7SjkNttKYJ5KjF_6RCl5LasEHoWZKvPP7MzlJi0JD5iG75.rkZVD9SiBdLfvuG6), Passcode: `&p#5D4ej`
+
+#### Notes
+Notes from prior meetings can be found here: https://docs.google.com/document/d/1gLMtS7OcII0KDaoVNCuP9ymOXpofVvsiK1CssfUbFFk/edit?usp=sharing
+
+
+
