@@ -13,11 +13,12 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 |-|-|-|-|-|-|-|
 | **Long Term Network Alignment** | Max(Time Commitment, Stake Exposure)|
 |Time Commitment| |Substantial, sustained contributions to Filecoin min. 6 mos |	Substantial, sustained contributions to Filecoin min. 1 year | Substantial, sustained contributions to Filecoin min. 2 years | Substantial, sustained contributions to Filecoin min. 3 years | Substantial, sustained contributions to Filecoin min. 4 years |
-|Stake Exposure||100k tokens at stake|100-500k tokens at stake|1MM tokens at stake|5MM tokens at stake|10MM tokens at stake|
-|**Industry Reputation**| Max(In-protocol Reputation, In-protocol Security, External Reputation)|
-|In-protocol Reputation|| Reputable leader in Filecoin Ecosystem for 1 year |Reputable leader in Filecoin Ecosystem for 2 years |Reputable leader in Filecoin Ecosystem for 3 years |Reputable leader in Filecoin Ecosystem for 4 years|Reputable leader in Filecoin Ecosystem for 4+ years|
-|In-protocol Security|| Contributions in identifying, responsibly disclosing, and fixing security vulnerabilities in protocols or services in the Filecoin community | Sustained contributions for 2+ years in identifying, responsibly disclosing, and fixing **serious** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 2+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 3+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community | Sustained contributions for 4+ years in identifying, responsibly disclosing, and fixing **major** protocol or service vulnerabilities, in the Filecoin community|
-|External Reputation||Registered organization with a strong reputation outside of Filecoin for over 2 years |-|		Registered organization with a substantial and global reputation outside of Filecoin for over 5 years|-|Company with substantial reputational risk (i.e. publicly traded company) whose reputation and reach exceed Filecoin| 
+|Stake Exposure||100k tokens at stake|500k tokens at stake|1MM tokens at stake|5MM tokens at stake|10MM tokens at stake|
+|**Industry Reputation**| Max(In-protocol Reputation, In-protocol Security, Organization Reputation, Individual Reputation)|
+|In-protocol Reputation|| Reputable leader in Filecoin Ecosystem for > 6 mos |Reputable leader in Filecoin Ecosystem for 2 years |Reputable leader in Filecoin Ecosystem for 3 years |Reputable leader in Filecoin Ecosystem for 4 years|Reputable leader in Filecoin Ecosystem for 4+ years|
+|In-protocol Security|| Contributions in identifying, responsibly disclosing, and fixing multiple **low** protocol or service vulnerabilities in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing multiple **medium** protocol or service vulnerabilities, in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing **high/critical** protocol or service vulnerabilities, in the Filecoin community| Sustained contributions identifying, responsibly disclosing, and fixing multiple **high/critical** protocol or service vulnerabilities, in the Filecoin community| L4 Requirements |
+|Organization Reputation|| Community Members | Reputable entities in Filecoin-adjacent communities with substantially adopted services / products (e.g. Supranational, Pinata, Infura) | Major organizations in Web3 (e.g. Polychain, Consensys) | Major organizations in Web2 and Web3 (e.g. Ethereum Foundation, Vimeo) | Household names / Publicly traded Institutions (e.g. Andreseen Horowitz, Netflix) | 
+|Individual Reputation||Has access to 2+ social media accounts which individually have audiences > 500 where they will post publicly about their status as a notary if approved|Has access to 2+ social media accounts which individually have audiences > 1000 where they will post publicly about their status as a notary if approved|Has access to 2+ accounts on social media accounts which individually have audiences > 10000 about their status as a notary if approved|-|-| 
 |**Diversity and Decentralization**| 0.7*(Geographic Distribution) + 0.3*(Use Case Diversity)|
 |Geographic Distribution||>=4 existing Notaries or >=30% global DataCap has been allocated to the Region|3 existing Notaries or 20-30% global DataCap has been allocated to the Region|2 existing Notaries or 10-20% global DataCap has been allocated to the Region|1 existing Notary or <10% global DataCap has been allocated to the Region|Unrepresented geography|
 |Use Case Diversity||Highly represented use case (4+ existing)|Highly represented use case (3 existing)|Somewhat represented use case (2 existing)|Under-represented use case (1 existing)|Unrepresented use case|
@@ -46,13 +47,22 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 - Media & Entertainment
 - Other
 
+**In-protocol Security**: Definitions for low/medium/high/critical map to the definitions [here](https://security.filecoin.io/bug-bounty/).
+
+**Individual Reputation**: 
+
+To qualify for this, the prospective Notary must post: 
+- A statement about being accepted as a Notary
+- A link to explain what a Notary is / Filecoin Plus
+- A link to where they will be accepting incoming requests from clients
+
 ## Notary Allocation Plan Rubric
 | Category | Combination Logic | L1 = Eligible up to 10TB | L2 = Eligible up to 100TB | L3 = Eligible up to 1PB | L4 = Eligible up to 10PB | L5 = Eligible up to 50PB | 
 |-|-|-|-|-|-|-|
 |**Weighted Notary Level**| Floor(0.3*(Long Term Network Alignment) + 0.4*(Industry Reputation) + 0.3*(Diversity and Decentralization))|
-|**Concreteness of Allocation Plan**|Floor(0.4*(Allocation Strategy)+0.4*(Client Due Diligence) + 0.2*(Bookkeeping Plan))|
-|Allocation Strategy||Minimal specificity in allocation strategy but demonstrates how allocation will reflect the Principles|Moderate specificity in allocation strategy in alignment with the Principles|Detailed plan, including tooling, to successfully allocate DataCap in a way that reflects the goals and values of the Principles|Detailed and convincing plan, including tooling, to successfully allocate DataCap in a way that reflects the goals and values of the Principles|L4 Requirements|
-|Client Due Diligence||Minimal due diligence protecting against abuse and vetting clients|Base due diligence protecting against abuse and vetting clients |Robust due diligence for protecting against abuse and vetting clients|Robust due diligence for protecting against abuse and vetting clients|L4 Requirements|
+|**Concreteness of Allocation Plan**|Floor(0.333*(Allocation Strategy)+0.333*(Client Due Diligence) + 0.333*(Bookkeeping Plan))|
+|Allocation Strategy||Minimal specificity in allocation strategy but demonstrates how allocation will reflect the Principles|-|Moderate specificity in allocation strategy in alignment with the Principles|-|Detailed plan, including tooling, to successfully allocate DataCap in a way that reflects the goals and values of the Principles|
+|Client Due Diligence||Minimal due diligence protecting against abuse and vetting clients|-|Base due diligence protecting against abuse and vetting clients|-|Robust due diligence for protecting against abuse and vetting clients|
 |Bookkeeping Plan||Minimal plan to document DataCap allocation decision and ready to provide justification when challenged or dispute|Base plan to document DataCap allocation decision and ready to provide justification when challenged or dispute|Detailed plan, with tooling, to document DataCap allocation decision and ready to provide justification when challenged or dispute|Detailed plan, with tooling and defined audit processes, to document DataCap allocation decision and ready to provide justification when challenged or dispute|L4 Requirements|
 |**Track Record**| Max(Past Allocations)|
 |Past Allocations||No previous track record | Successful allocation <100TB of DataCap. Justifications and audit trail can be produced when challenged|Successful allocation of 100TB of DataCap. Convincing justifications and audit trail can be produced when challenged|Successful allocation of 1PB of DataCap. Convincing justifications and audit trail can be produced when challenged|Successful allocation of 10PB of DataCap. Convincing justifications and audit trail can be produced when challenged|
