@@ -20,7 +20,12 @@ For those interested in providing this service to the Filecoin network, they may
 
 Please note, applications are reviewed during the [community governance call](/README.md#governance-and-iteration-process) - and will be graded according to this community defined [criteria](/notaries/templates#overview). Edits to the criteria, will follow the same process as any proposed change to this repository, defined [here](/README.md#process-for-modifications).
 
-To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. We propose this constraint to ensure any issues that arise early on in this process can be dealt with while introducing minimal impact. As this process stabalizes, we envision this constraint will be relaxed. 
+To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. To start, prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
+
+### Tiebreaking
+In the event more than 3 Notaries in the same geography share the same score, the unrounded score (that considers the Notary weight, allocation strategy, and track record) will be used. In the event there is still a tie, the community can decide whether to approve both Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. through open source tooling that might benefit future Notaries). 
+
+We propose this constraint to ensure any issues that arise early on in this process can be dealt with while introducing minimal impact. As this process stabalizes, we envision this constraint will be relaxed. 
 
 ## Removal Process
 Notaries that have consistent and substantive issues raised against them and have been found to be legitimately abusing their power will be made ineligible for DataCap allocations. The process for raising and resolving disputes can be found [here](/README.md#dispute--audit-framework). 
