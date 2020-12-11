@@ -11,6 +11,7 @@ Within this repository, you will find:
 - Information on how to become a Notary, selection rubric, recommended guidelines, active Notaries.
 - Information on how to file a Dispute, and the steps for how disputes are resolved. 
 
+#### If you are looking to request DataCap or to find a list of active Notaries please go to the [Filecoin Plus Registry](https://filecoinplus.on.fleek.co).
 
 ## Overview
 - Principles
