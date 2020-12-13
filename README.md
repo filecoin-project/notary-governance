@@ -40,7 +40,7 @@ _The submission must include the on-chain addresses of the parties involved and 
 
 - Why is the request being filed?
 
-_A concise description detailing the issue at hand. Notably some specific harm must be detailed (either a violation of the overarching principles, a violation of a Notary's own attested allocation plan, a violation of the agreed upon [operating guidelines](/notaries#operational-guidelines), or some other act of improrpriety._
+_A concise description detailing the issue at hand. Notably some specific harm must be detailed (either a violation of the overarching principles, a violation of a Notary's own attested allocation plan, a violation of the agreed upon [operating guidelines](/notaries#operational-guidelines), or some other act of impropriety._
 
 - What is the substantiating evidence? 
 
@@ -48,9 +48,9 @@ _Links to the relevant transaction ids or other substantiating evidence._
 
 2. Once an issue has been filed, the maintainers will review the submission to affirm the legitimacy of the claim. Issues that are not properly substantiated may require additional information or be closed. 
 
-3. If an issue is filed and has substantial evidence, a Notary will have 5 days to provide a response. 
+3. If an issue is filed and has substantial evidence, a Notary will have 5 days to provide a response in the same issue. 
 
-4. Based on the evidence and the response, the community can adjudicate on the severity of the issue at hand. If there is a flagarant violation of the Principles, operating guidelines, or other foundational items - a Notary may be subject to removal. If the violation is of a smaller scale, the Notary may simply be given a warning (and this repo may recieve a PR to provide clarity for other Notaries). Auxilliary information (including evidence that the Notary acted in good faith) should be considered as well. 
+4. Based on the evidence and the response, the community can adjudicate on the severity of the issue at hand at the next governance call - or pending an imminent need an emergency governance call may take place. If there is a flagrant violation of the Principles, operating guidelines, or other foundational items - a Notary may be subject to removal. If the violation is of a smaller scale, the Notary may simply be given a warning (and this repo may receive a PR to provide clarity for other Notaries). Auxillary information (including evidence that the Notary acted in good faith) should be considered as well. 
 
 
 ## Governance, Contributing and Iteration Process 
