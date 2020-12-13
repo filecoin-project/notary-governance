@@ -46,7 +46,7 @@ _A concise description detailing the issue at hand. Notably some specific harm m
 
 _Links to the relevant transaction ids or other substantiating evidence._
 
-2. Once an issue has been filed, the maintainers will review the submission to affirm the legitimacy of the claim. Issues that are not properly substantiated may require additional information or be closed. 
+2. Once an issue has been filed, the community will review the submission to affirm the legitimacy of the claim. Issues that are not properly substantiated may require additional information or be closed. 
 
 3. If an issue is filed and has substantial evidence, a Notary will have 5 days to provide a response in the same issue. 
 
