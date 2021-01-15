@@ -3,6 +3,8 @@ The role of the Root Key Holder is not to make subjective decisions - rather to 
 
 |Organization|Date Added|Status|
 |-|-|-|
+|Filecoin Foundation|15th Jan 2021|active|
+|Ethereum Foundation|15th Jan 2021|active|
 
 ## Role and Responsibilities
 
