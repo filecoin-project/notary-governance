@@ -66,7 +66,8 @@ Please note our community governance calls will take place every other **Tuesday
 ### Previous governance calls
 
 #### Recordings
-
+- 2020-01-19: [Meeting recording](https://protocol.zoom.us/rec/share/02T9xEPPHMeD5MzTWek-4x-cPPHYQq_mt70ErYeDHC-x8HlbB8f_Kqpq-y-3GgvF.BC7dXnTyySKSIugY)
+- 2020-01-05: [Meeting recording](https://protocol.zoom.us/rec/share/TW-1ALdziimQtTSS5A7Q1wOxwV3QKZN9nADAxQ-T56Ilk8oCPlkn-t6cTRAGTqb9.tzO6HthNkCDy8vQ0) 
 - 2020-11-10: [Meeting recording](https://protocol.zoom.us/rec/share/onal1SoxyEVAFADsPy-2Tbm6mOBlVQZVmjgaMUc-SzPQTCMLVNcHYbx5hCdGX2bo.H_Ya0D0gPqIqYexz)
 - 2020-11-17: [Meeting recording](https://protocol.zoom.us/rec/share/GdPgH6xqnZnIUDcZVC0nszmT5tb86gHDEQIO_6zpbwKJMbLV_7CXRuHcocnWOTMW.74rOS65a7Hl2g_Mi), Passcode: `V4VAr+7R`
 - 2020-11-24: [Meeting recording](https://protocol.zoom.us/rec/share/BNbrPGmr-lYIlamUAs7SjkNttKYJ5KjF_6RCl5LasEHoWZKvPP7MzlJi0JD5iG75.rkZVD9SiBdLfvuG6), Passcode: `&p#5D4ej`
