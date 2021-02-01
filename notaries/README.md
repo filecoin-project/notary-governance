@@ -31,9 +31,11 @@ Please note, applications are reviewed during the [community governance call](/R
 To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. To start, prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
 
 ### Tiebreaking
-In the event more than 3 Notaries in the same geography share the same score, the unrounded score (that considers the Notary weight, allocation strategy, and track record) will be used. In the event there is still a tie, the community can decide whether to approve all the tied Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. supporting unsupported use cases, through open source tooling that might benefit future Notaries, etc). 
+In the event more than 3 Notaries in the same geography share the same Eligibility score (calculated as MIN(ROUND(0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan), Scale of Allocation)), the unrounded score (calculated as (0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan) will be used. In the event there is still a tie, the community can decide whether to approve all the tied Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. supporting unsupported use cases, through open source tooling that might benefit future Notaries, etc). 
 
 We propose this constraint to ensure any issues that arise early on in this process can be dealt with while introducing minimal impact. As this process stabalizes, we envision this constraint will be relaxed. 
+
+
 
 ## Removal Process
 Notaries that have consistent and substantive issues raised against them and have been found to be legitimately abusing their power will be made ineligible for DataCap allocations. The process for raising and resolving disputes can be found [here](/README.md#dispute--audit-framework). 
