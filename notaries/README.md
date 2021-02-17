@@ -19,7 +19,9 @@ As stated above, Notaries are given a high degree of autonomy in their decision 
 
 * **No Self Dealing**: To prevent conflicts of interest, Notaries should not allocate DataCap to Clients over which they control the private keys, or to a Client who intends to specifically spend the allocated DataCap with an address affiliated with the Notary. When in doubt, Notaries should bias towards transparency (i.e. public disclosure) or to getting a different Notary to handle the individual request. 
 
-* **Operating in good faith**: Notaries hold a position of trust in the network, and as such it is expected that they operate keeping the Principles of this mechanism in mind. While each form of abuse cannot be exhaustively defined, Notaries are expected to bias towards caution and act in a way that promotes transparency. Notaries should expect to potentially recieve requests or questions for allocation decisions (within reason) - and should make decisions with this in mind. 
+* **Operating in Good Faith**: Notaries hold a position of trust in the network, and as such it is expected that they operate keeping the Principles of this mechanism in mind. While each form of abuse cannot be exhaustively defined, Notaries are expected to bias towards caution and act in a way that promotes transparency. Notaries should expect to potentially recieve requests or questions for allocation decisions (within reason) - and should make decisions with this in mind.
+
+* **Community Governance Participation**: It is expected that Notaries regularly attend the scheduled Governance calls. As these calls are a forum to shape this process, it is important to ensure Notaries are present to provide their context, learnings, and input. 
 
 ## Application / Selection Process
 For those interested in providing this service to the Filecoin network, they may apply to this role by filing an Issue [here](https://github.com/filecoin-project/notary-governance/issues/new/choose).
@@ -29,9 +31,11 @@ Please note, applications are reviewed during the [community governance call](/R
 To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. To start, prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
 
 ### Tiebreaking
-In the event more than 3 Notaries in the same geography share the same score, the unrounded score (that considers the Notary weight, allocation strategy, and track record) will be used. In the event there is still a tie, the community can decide whether to approve all the tied Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. supporting unsupported use cases, through open source tooling that might benefit future Notaries, etc). 
+In the event more than 3 Notaries in the same geography share the same Eligibility score (calculated as MIN(ROUND(0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan), Scale of Allocation)), the unrounded score (calculated as (0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan) will be used. In the event there is still a tie, the community can decide whether to approve all the tied Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. supporting unsupported use cases, through open source tooling that might benefit future Notaries, etc). 
 
 We propose this constraint to ensure any issues that arise early on in this process can be dealt with while introducing minimal impact. As this process stabalizes, we envision this constraint will be relaxed. 
+
+
 
 ## Removal Process
 Notaries that have consistent and substantive issues raised against them and have been found to be legitimately abusing their power will be made ineligible for DataCap allocations. The process for raising and resolving disputes can be found [here](/README.md#dispute--audit-framework). 
