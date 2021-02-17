@@ -13,8 +13,8 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 |Textile|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/53)|
 |XnMatrix|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/27)|
 |Glif|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/48)|
-|Blotocol Japan|Asia Excl. GCN|10TiB|[Application]([Application](https://github.com/filecoin-project/notary-governance/issues/56)|
-|MathWallet|Asia Excl. GCN|100TiB|[Application]([Application](https://github.com/filecoin-project/notary-governance/issues/26)|
+|Blotocol Japan|Asia Excl. GCN|10TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/56)|
+|MathWallet|Asia Excl. GCN|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/26)|
 |Performiv|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/50)|
 |Keyko|Europe|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/46)|
 
