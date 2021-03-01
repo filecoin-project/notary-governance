@@ -75,7 +75,7 @@ Please note our community governance calls will take place every other Tuesday -
 - 2020-12-08: [Meeting recording](https://protocol.zoom.us/rec/share/HpCOi1qWwRN41ok5nitN96bBEbn3zVXR_aEz3LQP4cYwOCeeEUIsr74UtOMUWY3_.wBti-UqkxID0dfKw), Passcode: `S9YV2^uw`
 
 Meetings can also be found with the following Miners for longer term storage
-| Meeting Date | Miner | Payload CID | Deal CID|
+| Meeting Date | Payload CID | Miner | Deal CID|
 |-|-|-|-|
 | 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f023971 | bafyreicxnigp25uarpnq2qir7vxpyc4rtznhinb34tzl4hzzg3xtk62cya |
 | 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f022142 | bafyreifddfguvyaakx3c6c2xcw7mur27iqswdysi2yfeayzacr4tcednne |
