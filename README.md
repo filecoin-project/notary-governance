@@ -58,7 +58,7 @@ Within this repository are the governing documents, selection criteria, and proc
 
 After community discussion, pull requests are encouraged where open discussion can happen asynchronously via the community - please be sure to link the relevant issues to the changes in your PR. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
-Please note our community governance calls will take place every other **Tuesday (starting 2020.11.10) at 5pm UTC**. 
+Please note our community governance calls will take place every other Tuesday - alternating every meeting between 3pm UTC and 11pm UTC. Please see the community calendar for the accurate dates, follow the repo (where agenda issues will be filed), or join our Slack channel!
 - [Community Calendar](https://calendar.google.com/calendar/u/1?cid=Y19rMWdrZm9vbTE3ZzBqOGM2YmFtNnVmNDNqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Zoom link](https://protocol.zoom.us/j/93414028246), Passcode: 554538
 - Please join our Slack channel, #fil-plus, if you have questions. 
@@ -73,6 +73,17 @@ Please note our community governance calls will take place every other **Tuesday
 - 2020-11-17: [Meeting recording](https://protocol.zoom.us/rec/share/GdPgH6xqnZnIUDcZVC0nszmT5tb86gHDEQIO_6zpbwKJMbLV_7CXRuHcocnWOTMW.74rOS65a7Hl2g_Mi), Passcode: `V4VAr+7R`
 - 2020-11-24: [Meeting recording](https://protocol.zoom.us/rec/share/BNbrPGmr-lYIlamUAs7SjkNttKYJ5KjF_6RCl5LasEHoWZKvPP7MzlJi0JD5iG75.rkZVD9SiBdLfvuG6), Passcode: `&p#5D4ej`
 - 2020-12-08: [Meeting recording](https://protocol.zoom.us/rec/share/HpCOi1qWwRN41ok5nitN96bBEbn3zVXR_aEz3LQP4cYwOCeeEUIsr74UtOMUWY3_.wBti-UqkxID0dfKw), Passcode: `S9YV2^uw`
+
+Meetings can also be found with the following Miners for longer term storage
+| Meeting Date | Miner | Payload CID | Deal CID|
+|-|-|-|-|
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f023971 | bafyreicxnigp25uarpnq2qir7vxpyc4rtznhinb34tzl4hzzg3xtk62cya |
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f022142 | bafyreifddfguvyaakx3c6c2xcw7mur27iqswdysi2yfeayzacr4tcednne |
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f019551 | bafyreig6bl3btlmykthademdht3lt7mb4ee5x2catdubd3zfmnbotzv4ya |
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f010617 | bafyreibmqamxqvoygdadutipndz76whnzmqnu2hmpoirc5jn5mejhxlzru |
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f01247 | bafyreihuhonuijahda6g37it3lkhvmna66nrzmwphm7nx3kpsxnrcqgecy |
+| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f023467 | bafyreibna5cjwktmntazlpxiezijwrybihhgumuah5uveoqpjxkwz2bleu |
+
 
 #### Notes
 Notes from prior meetings can be found here: https://docs.google.com/document/d/1gLMtS7OcII0KDaoVNCuP9ymOXpofVvsiK1CssfUbFFk/edit?usp=sharing
