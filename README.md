@@ -66,8 +66,8 @@ Please note our community governance calls will take place every other Tuesday -
 ### Previous governance calls
 
 #### Recordings
-- 2021-03-02: [Meeting recording](https://protocol.zoom.us/rec/share/JTFD5-ESQhUhOpIw-95_2cmEW2uA_4r0LbdZpVzYczR8SE6-nrwsZx11rJo8mCU6.P0VtBf9dvPiqHa4E),  Passcode: JZ.FD^B1 
-- 2021-02-16: [Meeting recording](https://protocol.zoom.us/rec/share/BiWGL-8JHc07WDHwOlNj8s_sX2_fF13hkl44OGgVlRvc0YI9MJsBu04F2MCOlkCv.dJ3zsno81skZgEEA),  Passcode: %N30VZri 
+- 2021-03-02: [Meeting recording](https://www.youtube.com/playlist?list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
+- 2021-02-16: [Meeting recording](https://www.youtube.com/playlist?list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
 
 
 Meetings can also be found with the following Miners for longer term storage
