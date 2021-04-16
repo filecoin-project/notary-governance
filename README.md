@@ -66,7 +66,7 @@ Please note our community governance calls will take place every other Tuesday -
 ### Previous governance calls
 
 #### Recordings
-- 2021-04-13: [Meeting recording](https://protocol.zoom.us/rec/share/esTR37GrUwCGP_LJo0HrGWxQzjcTn37qPU57I52FlgddVTOS08CuaOrxlXVnt4uB.a3vbdWTkI19i1kZu)   PW: skd&SY92  
+- 2021-04-13: [Meeting recording](https://www.youtube.com/watch?v=BIvFtwCeOjU&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=5)   
 - 2021-03-30: [Meeting recording](https://www.youtube.com/watch?v=BOLZ_iyVVaI&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=4)
 - 2021-03-16: [Meeting recording](https://www.youtube.com/watch?v=sjct8dcKAaY&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
 - 2021-03-02: [Meeting recording](https://www.youtube.com/playlist?list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
