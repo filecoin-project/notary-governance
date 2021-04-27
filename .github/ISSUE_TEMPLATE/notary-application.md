@@ -7,15 +7,14 @@ assignees: ''
 
 ---
 # Notary Application
-### PLEASE NOTE ANY APPLICATION SUBMITTED BEFORE THE FINALIZATION OF THE GOVERNING FIP OR THIS REPO WILL BE DISCARDED
 
 To apply as a notary, please fill out the following form. 
 
 ## Core Information
 - Name:
-- (Optional) Affiliated Organization: 
+- Affiliated Organization: 
 - Website / Social Media:
-- On-chain Address(es) to be Notarized:
+- On-chain Address to be Notarized:
 - Region of Operation: [North America, South America, Europe, Africa, Greater China, Asia-GCN, Oceania]
 - Use case(s) to be supported: [Please select from [here](/notaries/templates/README.md#definitions)]
 - DataCap Requested:
