@@ -1,3 +1,5 @@
+> **NOTE:** Notary applications are open until May 25th. To apply - create a new Issue in this repo of the type "Notary Application".
+
 # Notary Governance
 ⚠️⚠️⚠️ ***This is still Work In Progress but one can follow the repository for the latest discussion and changes. If you are interested in becoming a Notary, please submit an issue in the repository so the maintainers can score according to the rubric and provide feedback.***
 
@@ -66,6 +68,7 @@ Please note our community governance calls will take place every other Tuesday -
 ### Previous governance calls
 
 #### Recordings
+- 2021-04-27: [Meeting recording](https://www.youtube.com/watch?v=-XKZAPbvKUg&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=6)
 - 2021-04-13: [Meeting recording](https://www.youtube.com/watch?v=BIvFtwCeOjU&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=5)   
 - 2021-03-30: [Meeting recording](https://www.youtube.com/watch?v=BOLZ_iyVVaI&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=4)
 - 2021-03-16: [Meeting recording](https://www.youtube.com/watch?v=sjct8dcKAaY&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
