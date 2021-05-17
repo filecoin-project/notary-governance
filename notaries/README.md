@@ -42,11 +42,13 @@ As stated above, Notaries are given a high degree of autonomy in their decision 
 * **Community Governance Participation**: It is expected that Notaries regularly attend the scheduled Governance calls. As these calls are a forum to shape this process, it is important to ensure Notaries are present to provide their context, learnings, and input. 
 
 ## Application / Selection Process
-For those interested in providing this service to the Filecoin network, they may apply to this role by filing an Issue [here](https://github.com/filecoin-project/notary-governance/issues/new/choose).
+For those interested in providing this service to the Filecoin network, they may apply to this role by filing an Issue [here](https://github.com/filecoin-project/notary-governance/issues/new/choose). Applications are currently open till May 25, 2021.
 
 Please note, applications are reviewed during the [community governance call](/README.md#governance-and-iteration-process) - and will be graded according to this community defined [criteria](/notaries/templates#overview). Edits to the criteria, will follow the same process as any proposed change to this repository, defined [here](/README.md#process-for-modifications).
 
-To begin, the first wave of Notaries to be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. To start, prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
+To begin, the first wave of Notaries were be constrained at a cap of **3 Notaries per geography** based on the highest scoring initial applicants. The second round of elections increases this limit for EU, GCR, and NA to 5+. See https://github.com/filecoin-project/notary-governance/issues/117 for more details.
+
+Prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
 
 ### Tiebreaking
 In the event more than 3 Notaries in the same geography share the same Eligibility score (calculated as MIN(ROUND(0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan), Scale of Allocation)), the unrounded score (calculated as (0.5 * Track Record + 0.3 * Weighted Notary Leveling + 0.2 * Concreteness of Allocation Plan) will be used. In the event there is still a tie, the community can decide whether to approve all the tied Notaries OR to pick the Notary who will provide the most contributions to the ecosystem (e.g. supporting unsupported use cases, through open source tooling that might benefit future Notaries, etc). 
