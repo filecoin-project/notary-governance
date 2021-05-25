@@ -68,6 +68,7 @@ Please note our community governance calls will take place every other Tuesday -
 ### Previous governance calls
 
 #### Recordings
+- 2021-05-11: [Meeting recording](https://www.youtube.com/watch?v=msGELmevm-8&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=7)
 - 2021-04-27: [Meeting recording](https://www.youtube.com/watch?v=-XKZAPbvKUg&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=6)
 - 2021-04-13: [Meeting recording](https://www.youtube.com/watch?v=BIvFtwCeOjU&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=5)   
 - 2021-03-30: [Meeting recording](https://www.youtube.com/watch?v=BOLZ_iyVVaI&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=4)
