@@ -4,20 +4,14 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 |Organization|Region|Latest DataCap Allocation|Notary Application|
 |-|-|-|-|
 |Blotocol Japan|Asia Excl. GCN|10TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/56)|
-|MathWallet|Asia Excl. GCN|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/26)|
 |Julian Noel/s0nik|Europe|10TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/5)|
-|Filecoin Foundation|Europe|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/54)|
 |Keyko|Europe|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/46)|
 |IPFS Force|Greater China|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/14)|
-|1475-Simon|Greater China|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/29)|
 |IPFSMain|Greater China|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/11)|
 |Fenbushi Capital|Greater China|1PiB|[Application](https://github.com/filecoin-project/notary-governance/issues/49)|
-|Fleek|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/47)|
 |Textile|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/53)|
 |XnMatrix|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/27)|
 |Glif|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/48)|
-|Performiv|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/50)|
-
 
 ## Roles & Responsibilities
 The base responsibilities of the Notaries are as follows: 
