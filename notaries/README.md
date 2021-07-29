@@ -1,17 +1,33 @@
 # Overview
 Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/dictionary/fiduciary) for the Filecoin network. Notaries are entrusted to uphold the [Principles](https://github.com/filecoin-project/FIPs/blob/fip-0003/FIPS/fip-0003.md/#principles) of the program - responsibly allocating DataCap to help foster legitimate use cases on Filecoin. This document aims to provide additional specificity to the role/responsibility of Notaries, define the application and selection process, and the process for making changes. 
 
-|Organization|Region|Latest DataCap Allocation|Notary Application|
-|-|-|-|-|
-|Blotocol Japan|Asia Excl. GCN|10TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/56)|
-|Julian Noel/s0nik|Europe|10TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/5)|
-|Keyko|Europe|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/46)|
-|IPFS Force|Greater China|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/14)|
-|IPFSMain|Greater China|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/11)|
-|Fenbushi Capital|Greater China|1PiB|[Application](https://github.com/filecoin-project/notary-governance/issues/49)|
-|Textile|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/53)|
-|XnMatrix|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/27)|
-|Glif|North America|100TiB|[Application](https://github.com/filecoin-project/notary-governance/issues/48)|
+| Region | Notary | Application link | Latest DataCap grant |
+| --- | --- | --- | --- |
+| Asia-GCN | 12ships Foundation | https://github.com/filecoin-project/notary-governance/issues/180 | 100TiB |
+| Asia-GCN | MathWallet | https://github.com/filecoin-project/notary-governance/issues/123 | 100TiB |
+| Asia-GCN | Masaaki Nawatani, Blotocol Japan | https://github.com/filecoin-project/notary-governance/issues/131 | 100TiB |
+| Europe | Filecoin Foundation | https://github.com/filecoin-project/notary-governance/issues/187 | 1PiB |
+| Europe | Julien NOEL / Twinquasar | https://github.com/filecoin-project/notary-governance/issues/136 | 100TiB |
+| Europe |Keyko | https://github.com/filecoin-project/notary-governance/issues/46 | 100TiB |
+| Europe | Nicklas Reiersen / TechHedge | https://github.com/filecoin-project/notary-governance/issues/186 | 10TiB |
+| Europe | Speedium | https://github.com/filecoin-project/notary-governance/issues/122 | 10TiB |
+| GCR | Fenbushi Capital | https://github.com/filecoin-project/notary-governance/issues/138 | 1PiB |
+| GCR | 1475 - Simon686 | https://github.com/filecoin-project/notary-governance/issues/172 | 1PiB |
+| GCR | IPFSFORCE - Steven Li | https://github.com/filecoin-project/notary-governance/issues/158 | 500 TiB |
+| GCR | IPFSMain - Neo Ge | https://github.com/filecoin-project/notary-governance/issues/168 | 1PiB |
+| GCR | IPFSUnion - Steve Song | https://github.com/filecoin-project/notary-governance/issues/135 | 100TiB |
+| GCR | ByteBase | https://github.com/filecoin-project/notary-governance/issues/169 | 100TiB |
+| GCR | Wise R&D Center - waynewyang | https://github.com/filecoin-project/notary-governance/issues/178 | 100TiB |
+| GCR | Binghe Distributed Storage Lab | https://github.com/filecoin-project/notary-governance/issues/149 | 100TiB |
+| NA | XnMatrix | https://github.com/filecoin-project/notary-governance/issues/150 | 1PiB |
+| NA | Performive | https://github.com/filecoin-project/notary-governance/issues/132 | 100TiB |
+| NA | Koda Inc. | https://github.com/filecoin-project/notary-governance/issues/153 | 100TiB |
+| NA | Textile | https://github.com/filecoin-project/notary-governance/issues/53 | 100TiB |
+| NA | Glif | https://github.com/filecoin-project/notary-governance/issues/48 | 100TiB |
+| NA | Filswan NBFS | https://github.com/filecoin-project/notary-governance/issues/157 | 10TiB |
+| NA | SECUREXPERTS Inc. | https://github.com/filecoin-project/notary-governance/issues/164 | 10TiB |
+| Oceania | Holon Innovations | https://github.com/filecoin-project/notary-governance/issues/130 | 100TiB |
+
 
 ## Roles & Responsibilities
 The base responsibilities of the Notaries are as follows: 
