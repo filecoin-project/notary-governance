@@ -1,5 +1,3 @@
-## **Notary applications are now closed, we are in the process of scoring and doing elections.**
-
 # Notary Governance
 ⚠️⚠️⚠️ ***This is still Work In Progress but one can follow the repository for the latest discussion and changes. If you are interested in becoming a Notary, please submit an issue in the repository so the maintainers can score according to the rubric and provide feedback.***
 
