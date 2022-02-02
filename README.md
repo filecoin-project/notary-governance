@@ -1,5 +1,8 @@
 # Notary Governance
-⚠️⚠️⚠️ ***This is still Work In Progress but one can follow the repository for the latest discussion and changes. If you are interested in becoming a Notary, please submit an issue in the repository so the maintainers can score according to the rubric and provide feedback.***
+***Elections to open on in February. If you are interested in becoming a Notary, please submit an issue in the repository so the maintainers can score according to the rubric and provide feedback.
+  Applications will open: February 21 - March 04
+  Application scoring and followup: March 07 - March 18
+  New Notaries announced at Governance Call: March 22***
 
 The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md) and illustrated in the following diagram.
 
@@ -58,36 +61,16 @@ Within this repository are the governing documents, selection criteria, and proc
 
 After community discussion, pull requests are encouraged where open discussion can happen asynchronously via the community - please be sure to link the relevant issues to the changes in your PR. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
-Please note our community governance calls will take place every other Tuesday - alternating every meeting between 3pm UTC and 11pm UTC. Please see the community calendar for the accurate dates, follow the repo (where agenda issues will be filed), or join our Slack channel!
+Please note our community governance calls will take place every other Tuesday - there are (2) calls each day to accomodate time zones. 8am PT // 4pm UTC AND 4pm PT // 12am UTC. Please see the community calendar for the accurate dates, follow the repo (where agenda issues will be filed), or join our Slack channel!
 - [Community Calendar](https://calendar.google.com/calendar/u/1?cid=Y19rMWdrZm9vbTE3ZzBqOGM2YmFtNnVmNDNqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [Zoom link](https://protocol.zoom.us/j/93414028246), Passcode: 554538
+- [Zoom link](https://fil-org.zoom.us/my/filecoinplus?pwd=VHpNSnd0dkJRdWozNi9Xc3NmeGFhZz09), Passcode: *N*otary
 - Please join our Slack channel, #fil-plus, if you have questions. 
 
 ### Previous governance calls
 
 #### Recordings
-- 2021-05-11: [Meeting recording](https://www.youtube.com/watch?v=msGELmevm-8&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=7)
-- 2021-04-27: [Meeting recording](https://www.youtube.com/watch?v=-XKZAPbvKUg&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=6)
-- 2021-04-13: [Meeting recording](https://www.youtube.com/watch?v=BIvFtwCeOjU&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=5)   
-- 2021-03-30: [Meeting recording](https://www.youtube.com/watch?v=BOLZ_iyVVaI&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=4)
-- 2021-03-16: [Meeting recording](https://www.youtube.com/watch?v=sjct8dcKAaY&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
-- 2021-03-02: [Meeting recording](https://www.youtube.com/playlist?list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
-- 2021-02-16: [Meeting recording](https://www.youtube.com/watch?v=lhqmFtK0SN4&list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx&index=2)
+- ALL: [Meeting recording](https://www.youtube.com/playlist?list=PL_0VrY55uV1-cwaAU8lcChONxYQ_Bj9hx)
 
-
-Meetings can also be found with the following Miners for longer term storage
-| Meeting Date | Payload CID | Miner | Deal CID|
-|-|-|-|-|
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f023971 | bafyreicxnigp25uarpnq2qir7vxpyc4rtznhinb34tzl4hzzg3xtk62cya |
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f022142 | bafyreifddfguvyaakx3c6c2xcw7mur27iqswdysi2yfeayzacr4tcednne |
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f019551 | bafyreig6bl3btlmykthademdht3lt7mb4ee5x2catdubd3zfmnbotzv4ya |
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f010617 | bafyreibmqamxqvoygdadutipndz76whnzmqnu2hmpoirc5jn5mejhxlzru |
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f01247 | bafyreihuhonuijahda6g37it3lkhvmna66nrzmwphm7nx3kpsxnrcqgecy |
-| 2020-02-16 | bafykbzacecqd3namsecd6takdpfcvlecs4u5q4v3vdaor7655hfxjdvm2ui4m | f023467 | bafyreibna5cjwktmntazlpxiezijwrybihhgumuah5uveoqpjxkwz2bleu |
-
-
-#### Notes
-Notes from prior meetings can be found here: https://docs.google.com/document/d/1gLMtS7OcII0KDaoVNCuP9ymOXpofVvsiK1CssfUbFFk/edit?usp=sharing
-
-
+#### Presentations
+- ALL: [Presentation Files](https://drive.google.com/drive/u/0/folders/1zTy6YZWlG0KH6eQCEoKA8nDRP2JZnnp1)
 
