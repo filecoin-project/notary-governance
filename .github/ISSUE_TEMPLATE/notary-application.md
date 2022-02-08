@@ -1,6 +1,6 @@
 ---
 name: Notary Application
-about: Application form for Notaries to recieve DataCap (both new and existing)
+about: Application to become a Notary and recieve DataCap to allocation (both new and existing notaries should fill this out)
 title: ''
 labels: request
 assignees: ''
@@ -8,16 +8,15 @@ assignees: ''
 ---
 # Notary Application
 
-To apply as a notary, please fill out the following form. 
+To apply to be a Fil+ Notary, please fill out the following form. 
 
 ## Core Information
 - Name:
-- Affiliated Organization: 
-- Website / Social Media:
-- On-chain Address to be Notarized:
-- Region of Operation: [North America, South America, Europe, Africa, Greater China, Asia-GCN, Oceania]
+- Affiliated organization: 
+- On-chain address to be notarized (recommend using a new address):
+- Region of Operation: [North America, South America, Europe, Africa, Greater China, Asia minus GCN, Oceania]
 - Use case(s) to be supported: [Please select from [here](/notaries/templates/README.md#definitions)]
-- DataCap Requested:
+- DataCap requested for allocation (10TiB - 10 PiB):
 
 _Please respond to the questions below in pargraph form, replacing the text saying "Please answer here". Include as much detail as you can in your answer!_
 
@@ -42,12 +41,12 @@ Please answer here.
 ```
 
 ### In-protocol Security
-Please describe your contributions to the security of Filecoin and the duration over which you've made contributions. Please also include any links or references who might be able to substantiate your contributions (e.g. if you've filed several bugs, please cite who you've communicated with on the Filecoin side). 
+Please describe your contributions to the security of Filecoin and the duration over which you've made contributions. Please also include any links or references that can substantiate your contributions. 
 ```
 Please answer here. 
 ```
 
-### External Reputation
+### Organizational Reputation
 Please describe the nature of your organization, including the country of registration, size of the organization, and time since inception.
 ```
 Please answer here.
@@ -63,6 +62,11 @@ Please share any relevant external information regarding your organization (e.g.
 Please answer here.
 ```
 
+### Individual Reputation
+Please share links to at least 2 of your (personal) social media profiles (or accounts that you are able to use) and the approximate size of your audience (i.e., followers, subscribers) for each one.
+```
+Please answer here.
+```
 
 ## Diversity and Decentralization
 ### Use Case Diversity
@@ -75,14 +79,9 @@ Please answer here.
 # Allocation Plan
 ## Concreteness of Allocation Plan 
 ### Allocation Strategy
-How do you plan on allocating the DataCap requested above? Please describe your allocation strategy with as much specificity as you can.
+How do you plan on allocating the DataCap requested above? Please describe your allocation strategy with as much specificity as you can. This includes the target amount per client and rate at which you'll allocate DataCap.
 ```
 Please answer here.
-```
-
-Are there any internal processes you plan on impelementing regarding the target, amount, or rate at which you'll allocate DataCap? 
-```
-Please answer here. 
 ```
 
 How do you plan on securing the DataCap to ensure your organization (and its delegated members) are the ones allocating the DataCap?
@@ -91,31 +90,34 @@ Please answer here.
 ```
 
 ### Client Due Diligence
-How will you vet your Client to ensure they are spending that DataCap responsibly?
-```
-Please answer here.
-```
-
-What questions will you ask to ensure the Client can properly handle the DataCap you intend to allocate to them? 
+How will your vet the clients that are applying for DataCap? What questions will you ask to ensure your trust is placed well and that clients can properly handle the DataCap you intend to allocate to them? 
 ```
 Please answer here. 
 ```
 
-What processes will you employ to confirm that a Client is not improperly over-allocating DataCap to a single entity?
+What processes will you employ to when granting additional DataCap to a client that has previously been verified? This includes confirming that the client is not improperly using the DataCap they were previously granted, i.e., making deals with a single SP entity.
 ```
 Please answer here. 
 ```
 
 ### Bookkeeping Plan
-Do you plan on keeping records of your allocation decisions? If so, with what level of specificity do you intend to respond to any audit requests?
+Do you plan on conducting all your allocation decisions in public (e.g. Github repo), private (e.g. over email, Telegram, etc), or both? 
+```
+Please answer here. 
+```
+
+Where do you plan on keeping a publicly accessible record of all your allocation decisions?
 ```
 Please answer here.
 ```
 
-Do you plan on conduct your allocation decisions in public (e.g. Github repo), private (e.g. over email, Telegram, etc), or both? 
+## Service Level Agreement
+### Engagement in Program
+How much time per week, on average, are you willing to dedicate to participating in the Fil+ program? This includes making DataCap allocations (direct and/or Large Datasets), comments on discussion/issues, attendance in governance calls, messages in Slack, etc.
 ```
-Please answer here. 
+Please answer here.
 ```
+
 
 ## Track Record
 ### Past allocation 
@@ -129,7 +131,3 @@ Cumulatively, how much DataCap have you previously successfully allocated?
 Please answer here. 
 ```
 
-Have there been (or are there still) any disputes raised against you from your previous DataCap allocations? 
-```
-Please answer here.
-```
