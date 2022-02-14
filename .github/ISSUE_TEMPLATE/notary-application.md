@@ -8,7 +8,7 @@ assignees: ''
 ---
 # Notary Application
 
-To apply to be a Fil+ Notary, please fill out the following form. 
+To apply to be a Fil+ Notary, please review the Notary Overview [here](https://github.com/filecoin-project/notary-governance/tree/main/notaries#overview) and then fill out the following form. 
 
 ## Core Information
 - Name:
@@ -90,12 +90,12 @@ Please answer here.
 ```
 
 ### Client Due Diligence
-How will your vet the clients that are applying for DataCap? What questions will you ask to ensure your trust is placed well and that clients can properly handle the DataCap you intend to allocate to them? 
+How will you vet the clients that are applying for DataCap? What questions will you ask to ensure your trust is placed well and that clients can properly handle the DataCap you intend to allocate to them? 
 ```
 Please answer here. 
 ```
 
-What processes will you employ to when granting additional DataCap to a client that has previously been verified? This includes confirming that the client is not improperly using the DataCap they were previously granted, i.e., making deals with a single SP entity.
+What processes will you employ when granting additional DataCap to a client that has previously been verified? This includes confirming that the client is not improperly using the DataCap they were previously granted, i.e., making deals with a single SP entity.
 ```
 Please answer here. 
 ```
