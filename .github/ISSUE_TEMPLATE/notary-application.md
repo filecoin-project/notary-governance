@@ -2,7 +2,7 @@
 name: Notary Application
 about: Application to become a Notary and recieve DataCap to allocation (both new and existing notaries should fill this out)
 title: ''
-labels: request
+labels: Notary Application
 assignees: ''
 
 ---
