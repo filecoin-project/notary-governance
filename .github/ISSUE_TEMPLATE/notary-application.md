@@ -18,7 +18,7 @@ To apply to be a Fil+ Notary, please review the Notary Overview [here](https://g
 - Use case(s) to be supported: [Please select from [here](/notaries/templates/README.md#definitions)]
 - DataCap requested for allocation (10TiB - 10 PiB):
 
-_Please respond to the questions below in pargraph form, replacing the text saying "Please answer here". Include as much detail as you can in your answer!_
+_Please respond to the questions below in paragraph form, replacing the text saying "Please answer here". Include as much detail as you can in your answer!_
 
 ## Long Term Network Alignment
 ### Time Commitment
