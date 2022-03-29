@@ -1,8 +1,3 @@
-# Notary Governance
-***Elections to open on in February. If you are interested in becoming a Notary, please submit an issue in the repository so the maintainers can score according to the rubric and provide feedback.
-  Applications will open: February 21 - March 04
-  Application scoring and followup: March 07 - March 18
-  New Notaries announced at Governance Call: March 22***
 
 The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md) and illustrated in the following diagram.
 
