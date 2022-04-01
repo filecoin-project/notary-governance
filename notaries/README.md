@@ -41,7 +41,7 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 | Greater China  | STCloud                         | Barry                             | https://github.com/filecoin-project/notary-governance/issues/429 | 1PiB                       | No, new notary  |
 | Greater China  | Tianji Studio                   | Bailey-li                         | https://github.com/filecoin-project/notary-governance/issues/453 | 1PiB                       | No, new notary  |
 | Greater China  | Union Labs (formally IPFSUnion) | Jackie Mo                         | https://github.com/filecoin-project/notary-governance/issues/416 | 1PiB                       | Yes             |
-| Greater China  | Venus Team - IPFSForce          | Joss Hua                          | https://github.com/filecoin-project/notary-governance/issues/431 | 10TiB                      | No, new notary  |
+| Greater China  | Venus Team - IPFSForce          | Joss Hua                          | https://github.com/filecoin-project/notary-governance/issues/431 | 100TiB                      | No, new notary  |
 | Greater China  | Waterdrop Lab                   | Waterdrop Lab                     | https://github.com/filecoin-project/notary-governance/issues/432 | 1PiB                       | No, new notary  |
 | North America  | Banyan                          | Claudia Richoux                   | https://github.com/filecoin-project/notary-governance/issues/459 | 100TiB                     | No, new notary  |
 | North America  | Filswan                         | Charles Cao                       | https://github.com/filecoin-project/notary-governance/issues/433 | 100TiB                     | Yes             |
