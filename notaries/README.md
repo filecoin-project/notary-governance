@@ -5,12 +5,12 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 
 | Region         | Organization                    | Notary Name                       | Link to application                                              | Approved allocation amount | Existing Notary |
 |----------------|---------------------------------|-----------------------------------|------------------------------------------------------------------|----------------------------|-----------------|
-| Asia minus GCN | 12ships Foundation              | Irene Young                       | https://github.com/filecoin-project/notary-governance/issues/456 | 10PiB                      | Yes             |
+| Asia minus GCN | 12ships Foundation              | Irene Young                       | https://github.com/filecoin-project/notary-governance/issues/456 | 1PiB                      | Yes             |
 | Asia minus GCN | Bitrise Capital                 | Suki                              | https://github.com/filecoin-project/notary-governance/issues/443 | 1PiB                       | No, new notary  |
 | Asia minus GCN | BlockChain World                | Sounghwan Park                    | https://github.com/filecoin-project/notary-governance/issues/408 | 1PiB                       | No, new notary  |
 | Asia minus GCN | BlockMaker                      | BlockMaker                        | https://github.com/filecoin-project/notary-governance/issues/454 | 1PiB                       | No, new notary  |
 | Asia minus GCN | Define Platform                 | Alex Kim                          | https://github.com/filecoin-project/notary-governance/issues/463 | 1PiB                       | No, new notary  |
-| Asia minus GCN | FBG Capital                     | Gary Gao                          | https://github.com/filecoin-project/notary-governance/issues/458 | 10PiB                      | No, new notary  |
+| Asia minus GCN | FBG Capital                     | Gary Gao                          | https://github.com/filecoin-project/notary-governance/issues/458 | 1PiB                      | No, new notary  |
 | Asia minus GCN | Firefly (YuanHe Tech)           | embedsky                          | https://github.com/filecoin-project/notary-governance/issues/465 | 500TiB                     | No, new notary  |
 | Asia minus GCN | Force Web3 Community            | Tim Guo (柏礼）                   | https://github.com/filecoin-project/notary-governance/issues/426 | 100TiB                     | No, new notary  |
 | Asia minus GCN | IPFS Japan Consortium           | Masaaki Nawatani                  | https://github.com/filecoin-project/notary-governance/issues/410 | 1PiB                       | Yes             |
@@ -22,19 +22,19 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 | Europe         | Speedium                        | Wijnand Schouten                  | https://github.com/filecoin-project/notary-governance/issues/414 | 1PiB                       | Yes             |
 | Europe         | TechHedge (Reiers)              | Nicklas Reiersen                  | https://github.com/filecoin-project/notary-governance/issues/471 | 100TiB                     | Yes             |
 | Europe         | Twinquasar                      | Julien NOEL                       | https://github.com/filecoin-project/notary-governance/issues/468 | 100TiB                     | Yes             |
-| Greater China  |                            1475 | Simon                             | https://github.com/filecoin-project/notary-governance/issues/423 | 10PiB                      | Yes             |
-| Greater China  | BingHe Web3.0 Lab               | BingHe Web3.0 Lab                 | https://github.com/filecoin-project/notary-governance/issues/441 | 10PiB                      | Yes             |
+| Greater China  |                            1475 | Simon                             | https://github.com/filecoin-project/notary-governance/issues/423 | 1PiB                      | Yes             |
+| Greater China  | BingHe Web3.0 Lab               | BingHe Web3.0 Lab                 | https://github.com/filecoin-project/notary-governance/issues/441 | 1PiB                      | Yes             |
 | Greater China  | ByteBase                        | Eric                              | https://github.com/filecoin-project/notary-governance/issues/419 | 1PiB                       | No, new notary  |
 | Greater China  | Cabrina Huang                   | Cabrina Huang                     | https://github.com/filecoin-project/notary-governance/issues/440 | 1PiB                       | No, new notary  |
 | Greater China  | Coffee Cloud                    | Coffee Cloud                      | https://github.com/filecoin-project/notary-governance/issues/386 | 1PiB                       | No, new notary  |
 | Greater China  | DeFil                           | Eden                              | https://github.com/filecoin-project/notary-governance/issues/446 | 1PiB                       | No, new notary  |
-| Greater China  | Fenbushi Capital                | Fenbushi Capital                  | https://github.com/filecoin-project/notary-governance/issues/418 | 10PiB                      | Yes             |
+| Greater China  | Fenbushi Capital                | Fenbushi Capital                  | https://github.com/filecoin-project/notary-governance/issues/418 | 1PiB                      | Yes             |
 | Greater China  | Genesis                         | Anne                              | https://github.com/filecoin-project/notary-governance/issues/411 | 1PiB                       | No, new notary  |
 | Greater China  | Guazi Dynamic                   | Fatman13                          | https://github.com/filecoin-project/notary-governance/issues/424 | 10TiB                      | No, new notary  |
 | Greater China  | IPFS Metaverse Community        | Nic                               | https://github.com/filecoin-project/notary-governance/issues/434 | 100TiB                     | No, new notary  |
 | Greater China  | IPFSForce                       | Steven Li                         | https://github.com/filecoin-project/notary-governance/issues/412 | 1PiB                       | Yes             |
 | Greater China  | IPFSMain                        | Neo Ge                            | https://github.com/filecoin-project/notary-governance/issues/413 | 1PiB                       | Yes             |
-| Greater China  | MatrixStorage                   | Matrix Storage                    | https://github.com/filecoin-project/notary-governance/issues/436 | 10PiB                      | No, new notary  |
+| Greater China  | MatrixStorage                   | Matrix Storage                    | https://github.com/filecoin-project/notary-governance/issues/436 | 1PiB                      | No, new notary  |
 | Greater China  | New Web Group                   | New Web HK Group Holdings Limited | https://github.com/filecoin-project/notary-governance/issues/422 | 1PiB                       | No, new notary  |
 | Greater China  | NonEntropy Tech                 | Junyao Ren                        | https://github.com/filecoin-project/notary-governance/issues/445 | 300TiB                     | No, new notary  |
 | Greater China  | POW Power                       | ZHIHUI                            | https://github.com/filecoin-project/notary-governance/issues/447 | 1PiB                       | No, new notary  |
@@ -51,7 +51,7 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 | North America  | Kernelogic                      | Fei Yan                           | https://github.com/filecoin-project/notary-governance/issues/409 | 1PiB                       | No, new notary  |
 | North America  | NFTStar                         | Vito                              | https://github.com/filecoin-project/notary-governance/issues/444 | 1PiB                       | No, new notary  |
 | North America  | Origin Storage                  | ORIGIN Storage                    | https://github.com/filecoin-project/notary-governance/issues/452 | 1PiB                       | No, new notary  |
-| North America  | Performive                      | Tim Williams                      | https://github.com/filecoin-project/notary-governance/issues/420 | 1PiB                       | Yes             |
+| North America  | Performive * *Pending dispute resolution*                     | Tim Williams                      | https://github.com/filecoin-project/notary-governance/issues/420 | 1PiB                       | Yes             |
 | North America  | PiKNiK                          | James Hoang                       | https://github.com/filecoin-project/notary-governance/issues/438 | 100TiB                     | No, new notary  |
 | North America  | Tech Greedy                     | Xinan Xu                          | https://github.com/filecoin-project/notary-governance/issues/421 | 1PiB                       | No, new notary  |
 | North America  | Textile                         | Andrew Hill                       | https://github.com/filecoin-project/notary-governance/issues/472 | 100TiB                     | Yes             |
@@ -64,10 +64,10 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 ### Regional Counts of active notaries
 | Region         | Number of notaries | Total DataCap allocated to region |
 |----------------|--------------------|-----------------------------------|
-| Asia minus GCN |                 12 | 28.59 PiB                          |
+| Asia minus GCN |                 12 | 10.5 PiB                          |
 | Europe         |                  5 | 3.2 PiB                            |
-| Greater China  |                 21 | 53.41 PiB                          |
-| North America  |                 13 | 8.488 PiB                          |
+| Greater China  |                 21 | 10.5 PiB                          |
+| North America  |                 13 | 8.5 PiB                          |
 | Oceania        |                  3 | 300 TiB                            |
 
 ## Roles & Responsibilities
