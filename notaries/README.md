@@ -56,6 +56,7 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 | North America  | Tech Greedy                     | Xinan Xu                          | https://github.com/filecoin-project/notary-governance/issues/421 | 1PiB                       | No, new notary  |
 | North America  | Textile                         | Andrew Hill                       | https://github.com/filecoin-project/notary-governance/issues/472 | 100TiB                     | Yes             |
 | North America  | Tinfra                          | Tinfra LLC                        | https://github.com/filecoin-project/notary-governance/issues/470 | 1PiB                       | No, new notary  |
+| North America  | XnMatrix                          | XnMatrix                        | https://github.com/filecoin-project/notary-governance/issues/150 | 1PiB                       | Yes  |
 | Oceania        | Holon Innovations               | Holon Innovations                 | https://github.com/filecoin-project/notary-governance/issues/460 | 100TiB                     | Yes             |
 | Oceania        | MetaWave                        | Jazz Hsiao                        | https://github.com/filecoin-project/notary-governance/issues/457 | 100TiB                     | No, new notary  |
 | Oceania        | West Labs                       | West Labs Venture                 | https://github.com/filecoin-project/notary-governance/issues/430 | 100TiB                     | No, new notary  |
