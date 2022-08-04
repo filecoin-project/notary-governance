@@ -1,13 +1,19 @@
 ---
-name: Private Data - LDN Application
-about: Application for an encrypted or private dataset that will require a custom LDN with a subset of signing notaries to be created
+name: LDN Application Exception Proposal - <Project Name> 
+about: Application for a non-public/open or a geo-specific dataset that will require a custom LDN with a subset of signing notaries to be created
 title: ''
 labels: LDN Request
 assignees: ''
 
 ---
 
+## Application information 
+  
 Are you the data owner?
+- [ ] Yes
+- [ ] No
+
+Is the data private i.e., encrypted or not meant to be retrieved by anyone else on the network?
 - [ ] Yes
 - [ ] No
 
@@ -17,13 +23,15 @@ Are you the data owner?
 - Data owner's social media account(s):
 
 ### Data owner description 
-_Background, source of funding, etc._
+_Details on the data owner background, source of funding, etc._
 
 ## Project Description
 
 ### What is the motivation behind onboarding this data to Filecoin? 
+_Answer here_
 
 ### What organizations are involved in this project? Sources of funding, SPs partnering in onboarding, other service providers, etc.?
+_Answer here_
 
 ## Transparency in KYC
 _If you are not the data owner, please email filplus@fil.org with you and the data owner on a thread so at least the Fil+ governance team can act as a lightweight KYC check._
@@ -31,11 +39,28 @@ _If you are not the data owner, please email filplus@fil.org with you and the da
 Are you going to offer NDAs to notaries?
 - [ ] Yes
 - [ ] No
-
+  
 ## Dataset description 
 _What is being stored on the network? Please provide as many details as possible on the dataset and its size._
 
 ### Why is it useful to the Filecoin network?
+_Answer here_
+  
+## Storage needs
+
+Is the data to be stored in a single region, either due to geopolitical constraints or data owner policy?
+- [ ] Yes
+- [ ] No
+
+### Which SPs will you/the data owner be working with to store the data? 
+  
+| SP ID | SP org | SP region |
+| --- | --- | --- |
+| _minerID_ | _org_ | _region_ |
+
+### How were these SPs identified?
+_Answer here_
+
 
 ## Notaries that support the project 
 
