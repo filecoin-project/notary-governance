@@ -13,7 +13,7 @@ Root Key Holders are signers to a Multisig on chain with the power to grant and 
 - Exercise decisions made by the community governance on-chain.
 - Take action on finalized decisions in a timely manner.
 
-Root Key Holders should expect to meet on a regular cadence to process approved actions from the Governance repostiory. It is expected that every action taken by a Root Key Holder should be linked to a governance decision and require collective action by a substantial number of Root Key Holders in order to be processed. 
+Root Key Holders should expect to meet on a regular cadence to process approved actions from the Governance repository. It is expected that every action taken by a Root Key Holder should be linked to a governance decision and require collective action by a substantial number of Root Key Holders in order to be processed. 
 
 ## Selection Criteria
 Candidates will meet the following criteria: 
