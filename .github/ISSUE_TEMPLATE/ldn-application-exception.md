@@ -44,7 +44,7 @@ Are you going to offer NDAs to notaries?
 _What is being stored on the network? Please provide as many details as possible on the dataset and its size._
 
 ### Why is it useful to the Filecoin network?
-_Answer here_
+_Please share details on how your project may use Filecoin in a novel way, extend or experiment with different use cases, or result in useful development in the ecosystem._
   
 ## Storage needs
 
@@ -53,6 +53,7 @@ Is the data to be stored in a single region, either due to geopolitical constrai
 - [ ] No
 
 ### Which SPs will you/the data owner be working with to store the data? 
+_If all the SPs have not been chosen at the time of issue submission, feel free to edit and update the form as they are chosen. If you need support on finding reputable SPs, please check out filgram.io, filrep.io, plus.fil.org/miners, or Filecoin Slack channels: #fil-plus, #fil-deal-market_
   
 | SP ID | SP org | SP region |
 | --- | --- | --- |
@@ -63,6 +64,7 @@ _Answer here_
 
 
 ## Notaries that support the project 
+ _Notaries perform KYC/KYB to validate the legitimacy of data and organizations. To find supporting notaries please view the list of [round 3 notaries](https://github.com/filecoin-project/notary-governance/tree/main/notaries) and post your LDN application in the Filecoin slack channel #fil-plus-application-review. Feel free to update the form as you gain support over time and more notaries are willing to support your application._
 
 | Notary name | Notary org | Notary region |
 | --- | --- | --- |
