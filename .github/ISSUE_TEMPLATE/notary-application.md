@@ -117,7 +117,7 @@ Please answer here.
 
 ## Service Level Agreement
 ### Engagement in Program
-How much time per week, on average, are you willing to dedicate to participating in the Fil+ program? This includes making DataCap allocations (direct and/or Large Datasets), comments on discussion/issues, attendance in governance calls, messages in Slack, etc.
+Which level (1-5) of service commitment are you willing to dedicate to participating in the Fil+ program? This includes making DataCap allocations (direct and/or Large Datasets), joining working groups, adding comments on discussion/issues, attendance in governance calls, messages in Slack, etc. For a full list of the service levels and time commitments please review the [rubric](https://github.com/filecoin-project/notary-governance/issues/630) 
 ```
 Please answer here.
 ```
