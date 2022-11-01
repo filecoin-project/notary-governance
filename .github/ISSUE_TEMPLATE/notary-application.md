@@ -80,7 +80,7 @@ Please share any additional relevant information regarding your presence (e.g. n
 Please answer here.
 ```
 
-# Allocation Plan (refer to the Rubric to see how this impacts your Notary score)
+# Allocation Plan [refer to the Rubric to see how this impacts your Notary score](https://docs.google.com/spreadsheets/d/172-sbd5qzdbSofvL_C5FHRyXEsTUpMiKspItygAVJA4/edit?usp=sharings)
 ## Concreteness of Allocation Plan 
 ### Allocation Strategy
 How do you plan on allocating the DataCap requested above? Please describe your allocation strategy with as much specificity as you can. This includes the target amount per client and rate at which you'll allocate DataCap.
