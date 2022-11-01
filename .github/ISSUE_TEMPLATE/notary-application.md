@@ -14,21 +14,28 @@ To apply to be a Fil+ Notary, please review the Notary Overview [here](https://g
 - Name:
 - Affiliated organization: 
 - On-chain address to be notarized (recommend using a new address):
-- Region of Operation: [North America, South America, Europe, Africa, Greater China, Asia minus GCN, Oceania]
-- Use case(s) to be supported: [Please select from [here](/notaries/templates/README.md#definitions)]
-- DataCap requested for allocation (10TiB - 10 PiB):
+- Country of Operation: 
+- Region of Operation: [North America, South America, Europe, Africa, Greater China Region (GCR), Asia minus GCR, Oceania]
+- Use case(s) to be supported: [Please select from [here](https://github.com/filecoin-project/notary-governance/tree/main/notaries)]
+- DataCap requested for allocation (10TiB - 1PiB):
+- Are you applying on behalf of yourself or an organization?: [Individual, Organization]
 
 _Please respond to the questions below in paragraph form, replacing the text saying "Please answer here". Include as much detail as you can in your answer!_
 
 ## Long Term Network Alignment
 ### Time Commitment
-Describe the nature and duration of your affiliation with the Filecoin project. Please include relevant Github handles, miner ids, significant projects or contributions (with links).
+Describe the nature and duration of your affiliation with the Filecoin network. Please include relevant GitHub handles, Storage Provider IDs, significant projects or contributions (with links).
 ```
 Please answer here.
 ```
 
 ### Stake Exposure
-Please cite total token at stake (currently available, locked as collateral, vesting over time) and any substantiating evidence.
+Please cite total token at stake (currently available, locked as collateral, vesting over time) and any substantiating evidence (i.e., addresses on chain with their corresponding FIL amounts).
+```
+Please answer here.
+```
+
+How did you acquire the FIL cited above?
 ```
 Please answer here.
 ```
@@ -68,15 +75,12 @@ Please share links to at least 2 of your (personal) social media profiles (or ac
 Please answer here.
 ```
 
-## Diversity and Decentralization
-### Use Case Diversity
-(Optional) Any additional information you'd like to share about the use case(s) you plan to support?
+Please share any additional relevant information regarding your presence (e.g. news articles, interviews, podcasts, videos, awards, etc.)
 ```
 Please answer here.
 ```
 
-
-# Allocation Plan
+# Allocation Plan [refer to the Rubric to see how this impacts your Notary score](https://docs.google.com/spreadsheets/d/172-sbd5qzdbSofvL_C5FHRyXEsTUpMiKspItygAVJA4/edit?usp=sharings)
 ## Concreteness of Allocation Plan 
 ### Allocation Strategy
 How do you plan on allocating the DataCap requested above? Please describe your allocation strategy with as much specificity as you can. This includes the target amount per client and rate at which you'll allocate DataCap.
@@ -113,7 +117,7 @@ Please answer here.
 
 ## Service Level Agreement
 ### Engagement in Program
-How much time per week, on average, are you willing to dedicate to participating in the Fil+ program? This includes making DataCap allocations (direct and/or Large Datasets), comments on discussion/issues, attendance in governance calls, messages in Slack, etc.
+Which level (1-5) of service commitment are you willing to dedicate to participating in the Fil+ program? This includes making DataCap allocations (direct and/or Large Datasets), joining working groups, adding comments on discussion/issues, attendance in governance calls, messages in Slack, etc. For a full list of the service levels and time commitments please review the [rubric](https://github.com/filecoin-project/notary-governance/issues/630) 
 ```
 Please answer here.
 ```
@@ -126,8 +130,8 @@ Have you previously received DataCap to allocate before? If so, please link to a
 Please answer here.
 ```
 
-Cumulatively, how much DataCap have you previously successfully allocated? 
+## Disclosures
+Do you/your organization have any relationship(s) with other existing notaries or their organizations? If yes, please list the names of the Notary individuals or organizations you may be related to.
 ```
-Please answer here. 
+Please answer here.
 ```
-
