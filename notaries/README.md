@@ -104,7 +104,7 @@ Notaries were selected by regions based on the issue proposed [here](https://git
 
 Prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
 
-# Notary Use Case Specialization 
+# Notary Sets Use Cases 
   Support (1) or more the following, which can be linked to in a separate doc:
 - Professional Services (Hosting Reseller, Long-term Backups, Data Warehousing)
 - Developer Tools (Package Managers, Automatic Notaries, Web2 to Web3 integrations)
