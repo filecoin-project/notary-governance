@@ -16,7 +16,7 @@ To apply to be a Fil+ Notary, please review the Notary Overview [here](https://g
 - On-chain address to be notarized (recommend using a new address):
 - Country of Operation: 
 - Region of Operation: [North America, South America, Europe, Africa, Greater China Region (GCR), Asia minus GCR, Oceania]
-- Use case(s) to be supported: [Please select from [here](/notaries/templates/README.md#definitions)]
+- Use case(s) to be supported: [Please select from [here](https://github.com/filecoin-project/notary-governance/blob/370b3dc9c91db105f920f2be1d4038f1195a64c8/notaries/README.md)]
 - DataCap requested for allocation (10TiB - 1PiB):
 - Are you applying on behalf of yourself or an organization?: [Individual, Organization]
 
