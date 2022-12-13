@@ -31,7 +31,8 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/645|Venus Team                                  |Joss Hua                      |
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/647|N.A.                                        |Fenbushi Capital              |
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/663|StorSwift                                   |StorSwift                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/665|mkccstorage                                 |Hunter                        |
+|Greater China Region (GCR) | https://github.com/filecoin-project/notary-governance/issues/690 | DAYOU                                  |Eugenue
+Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/665|mkccstorage                                 |Hunter                        |
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/667|IPFS Force                                  |Steven Li                     |
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/670|Guazi Dynamic                               |@Fatman13                     |
 |Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/672|IPFSMain                                    |Neo Ge                        |
