@@ -3,97 +3,105 @@ Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/di
 
 ## Current active notaries
 
-|region                    |Github Link                                                     |Organization                                |(POC) Name                    |
-|--------------------------|----------------------------------------------------------------|--------------------------------------------|------------------------------|
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/648|BlockchainWorld                             |Sounghwan Park                |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/657|Define Platform                             |Alex Kim                      |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/659|Greaterheat Pte.Ltd.                        |Neo                           |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/668|Force Community                             |Tim Guo (柏礼）                  |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/669|CoinSummer Labs                             |Max                           |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/677|12Ships Foundation                          |Irene Young                   |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/682|Protocan                                    |AnthonySmith                  |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/683|Antalpha Digital Pte. Ltd.                  |Xin Jin                       |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/692|Bit Engine Pte Ltd                          |Reeta                         |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/694|Pluskit                                     |Pluskit                       |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/695|Blockmaker                                  |Blockmaker                    |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/696|IPFS Japan Consortium                       |Masaaki Nawatani              |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/697|ND LABS                                     |Leo                           |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/703|BigData Exchange                            |CB Tan                        |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/707|EMO capital                                 |Bruce                         |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/709|METAVERSE DATA MINING PTE.LTD.              |MDM                           |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/716|Bitrise capital                             |Kivi                          |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/722|FBG Capital                                 |Gary Gao                      |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/745|Starboard                                   |Sylvan Zhang                  |
-|Asia minus GCR            |https://github.com/filecoin-project/notary-governance/issues/788|YuanHe Tech ( Firefly )                     |FireflyHZ                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/637|CoffeeCloud                                 |CoffeCloud                    |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/643|ZC LABS                                     |zhongchuang                   |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/644|FILWallet                                   |a1991car                      |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/645|Venus Team                                  |Joss Hua                      |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/647|N.A.                                        |Fenbushi Capital              |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/663|StorSwift                                   |StorSwift                     |
-|Greater China Region (GCR) | https://github.com/filecoin-project/notary-governance/issues/690 | DAYOU                                  |Eugenue
-Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/665|mkccstorage                                 |Hunter                        |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/667|IPFS Force                                  |Steven Li                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/670|Guazi Dynamic                               |@Fatman13                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/672|IPFSMain                                    |Neo Ge                        |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/674|Hangzhou Niutong Information Technology Co. | Ltd.                         |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/680|SXX Future Data                             |Darleen                       |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/684|FileDrive Labs                              |Laura Ren                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/687|Tianji Studio                               |Bailey-li                     |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/689|ByteBase                                    |Eric                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/699|BingHe Web3.0 Lab                           |MRJAVAZHAO                    |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/700|NonEntropy Tech.                            |Junyao Ren                    |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/713|New Web Group                               |Yuan                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/719|MS Cloud                                    |Tracy                         |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/720|DeFIL                                       |Eden                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/732|Genesis                                     |Anne                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/734|IPFS.CN                                     |Nic                           |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/736|TAKI Chain                                  |Smart Dong                    |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/740|Ewesion                                     |Ewesion                       |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/746|Tokencan                                    |Tokencan                      |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/752|Chengdu Codoon Health Technology Co.        | LTD                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/763|N/A                                         |Cabrina Huang                 |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/764|STCould                                     |LISA                          |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/765|POW POWER                                   |Jackson                       |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/768|Interstellar Storage                        |Interstellar Storage（ShenZhen）|
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/770|1475                                        |Simon                         |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/772|FogMeta                                     |FogMeta                       |
-|Greater China Region (GCR)|https://github.com/filecoin-project/notary-governance/issues/775|Pangod                                      |Casey                         |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/658|Kernelogic                                  |Fei Yan                       |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/664|Tech Greedy                                 |Xinan Xu                      |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/675|TopBlocks                                   |Harry Ma                      |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/693|NFTSTAR                                     |Vivian                        |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/698|Aifabot                                     |Benny                         |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/704|Gate.io                                     |Fafa                          |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/708|New Huo Pool                                |New Huo Pool                  |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/710|ORIGIN Storage                              |ORIGIN Storage                |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/721|Ipollo                                      |Mona                          |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/729|Top Value Limited                           |Top Value Finance             |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/730|LendMi team                                 |LendMi                        |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/742|Banyan                                      |Claudia Richoux               |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/743|Acrontech Inc.                              |Gendin Han                    |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/744|Saukibit                                    | Inc. (DBA Canza Finance)     |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/747|XnMatrix                                    |XnMatrix                      |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/750|Filecoin Foundation                         |Danny O'Brien                 |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/754|Koda Inc.                                   |Emma Russell                  |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/756|SECUREXPERTS Inc.                           |Darnell Washington            |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/760|Ghost Byte Inc                              |Trevor K Smith                |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/776|PiKNiK                                      |James Hoang                   |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/777|Nebula Block Data                           |Boqian Wang                   |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/778|FilSwan                                     |FilSwan                       |
-|North America             |https://github.com/filecoin-project/notary-governance/issues/779|N/A                                         |Nick Merrick                  |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/600|Fungi Project                               |Andress Sarria                |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/638|ZhongYiGuoLian                              |Patapon                       |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/661|RawTech Ventures                            |RawTech Ventures              |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/676|N/A.                                        |Carohere/Carolina             |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/678|Speedium / DCENT BV.                        |Wijnand Schouten              |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/717|Direction Technology Co.                    | LTD                          |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/739|Twinquasar                                  |Julien NOEL                   |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/769|N/A                                         |Bobby Choi                    |
-|Europe                    |https://github.com/filecoin-project/notary-governance/issues/774|N/A                                         |Olivier Molenkamp             |
-|Africa.                   |https://github.com/filecoin-project/notary-governance/issues/681|Meibuy Cloud                                |Meibuy                        |
-|Oceania                   |https://github.com/filecoin-project/notary-governance/issues/673|OPENGATE TECHNOLOGY INVESTMENT GROUP PTY LTD|TAO YANG                      |
-|Oceania                   |https://github.com/filecoin-project/notary-governance/issues/748|Holon Global Investments PTY Ltd            |Holon Innovations             |
+|region (CLEANED)          |Organization                                     |Github Link                                                      |3rd Round|4th Round|
+|--------------------------|-------------------------------------------------|-----------------------------------------------------------------|---------|---------|
+|Africa                    |Meibuy Cloud                                     |https://github.com/filecoin-project/notary-governance/issues/681 |         |checked  |
+|Asia minus GCR            |BlockchainWorld                                  |https://github.com/filecoin-project/notary-governance/issues/648 |checked  |checked  |
+|Asia minus GCR            |Define Platform                                  |https://github.com/filecoin-project/notary-governance/issues/657 |checked  |checked  |
+|Asia minus GCR            |Greaterheat Pte.Ltd.                             |https://github.com/filecoin-project/notary-governance/issues/659 |         |checked  |
+|Asia minus GCR            |Force Community                                  |https://github.com/filecoin-project/notary-governance/issues/668 |checked  |checked  |
+|Asia minus GCR            |CoinSummer Labs                                  |https://github.com/filecoin-project/notary-governance/issues/669 |         |checked  |
+|Asia minus GCR            |12Ships Foundation                               |https://github.com/filecoin-project/notary-governance/issues/677 |checked  |checked  |
+|Asia minus GCR            |Bewell Technology Limited                        |https://github.com/filecoin-project/notary-governance/issues/679 |         |checked  |
+|Asia minus GCR            |Protocan                                         |https://github.com/filecoin-project/notary-governance/issues/682 |         |checked  |
+|Asia minus GCR            |Antalpha Digital Pte. Ltd.                       |https://github.com/filecoin-project/notary-governance/issues/683 |         |checked  |
+|Asia minus GCR            |Bit Engine Pte Ltd                               |https://github.com/filecoin-project/notary-governance/issues/692 |         |checked  |
+|Asia minus GCR            |Pluskit                                          |https://github.com/filecoin-project/notary-governance/issues/694 |checked  |checked  |
+|Asia minus GCR            |Blockmaker                                       |https://github.com/filecoin-project/notary-governance/issues/695 |checked  |checked  |
+|Asia minus GCR            |IPFS Japan Consortium                            |https://github.com/filecoin-project/notary-governance/issues/696 |checked  |checked  |
+|Asia minus GCR            |ND LABS                                          |https://github.com/filecoin-project/notary-governance/issues/697 |checked  |checked  |
+|Asia minus GCR            |BigData Exchange                                 |https://github.com/filecoin-project/notary-governance/issues/703 |         |checked  |
+|Asia minus GCR            |EMO capital                                      |https://github.com/filecoin-project/notary-governance/issues/707 |         |checked  |
+|Asia minus GCR            |METAVERSE                                        |https://github.com/filecoin-project/notary-governance/issues/709 |checked  |checked  |
+|Asia minus GCR            |Bitrise capital                                  |https://github.com/filecoin-project/notary-governance/issues/716 |checked  |checked  |
+|Asia minus GCR            |FBG Capital                                      |https://github.com/filecoin-project/notary-governance/issues/722 |checked  |checked  |
+|Asia minus GCR            |Starboard                                        |https://github.com/filecoin-project/notary-governance/issues/745 |         |checked  |
+|Asia minus GCR            |YuanHe Tech                                      |https://github.com/filecoin-project/notary-governance/issues/788 |checked  |checked  |
+|Europe                    |Fungi Project                                    |https://github.com/filecoin-project/notary-governance/issues/600 |         |checked  |
+|Europe                    |ZhongYiGuoLian                                   |https://github.com/filecoin-project/notary-governance/issues/638 |         |checked  |
+|Europe                    |RawTech Ventures                                 |https://github.com/filecoin-project/notary-governance/issues/661 |         |checked  |
+|Europe                    |Carohere/Carolina                                |https://github.com/filecoin-project/notary-governance/issues/676 |         |checked  |
+|Europe                    |Speedium / DCENT BV.                             |https://github.com/filecoin-project/notary-governance/issues/678 |checked  |checked  |
+|Europe                    |Direction Technology Co., LTD                    |https://github.com/filecoin-project/notary-governance/issues/717 |         |checked  |
+|Europe                    |Twinquasar                                       |https://github.com/filecoin-project/notary-governance/issues/739 |checked  |checked  |
+|Europe                    |Bobby Choi                                       |https://github.com/filecoin-project/notary-governance/issues/769 |         |checked  |
+|Europe                    |Olivier Molenkamp                                |https://github.com/filecoin-project/notary-governance/issues/774 |         |checked  |
+|Greater China Region (GCR)|Union Labs (formerly IPFSUnion)                  |https://github.com/filecoin-project/notary-governance/issues/135 |         |         |
+|Greater China Region (GCR)|Wusi R&D Center                                  |https://github.com/filecoin-project/notary-governance/issues/178 |         |         |
+|Greater China Region (GCR)|CoffeeCloud                                      |https://github.com/filecoin-project/notary-governance/issues/637 |checked  |checked  |
+|Greater China Region (GCR)|ZC LABS                                          |https://github.com/filecoin-project/notary-governance/issues/643 |         |checked  |
+|Greater China Region (GCR)|FILWallet                                        |https://github.com/filecoin-project/notary-governance/issues/644 |         |checked  |
+|Greater China Region (GCR)|Venus Team                                       |https://github.com/filecoin-project/notary-governance/issues/645 |checked  |checked  |
+|Greater China Region (GCR)|Fenbushi Capital                                 |https://github.com/filecoin-project/notary-governance/issues/647 |checked  |checked  |
+|Greater China Region (GCR)|StorSwift                                        |https://github.com/filecoin-project/notary-governance/issues/663 |         |checked  |
+|Greater China Region (GCR)|mkccstorage                                      |https://github.com/filecoin-project/notary-governance/issues/665 |         |checked  |
+|Greater China Region (GCR)|IPFS Force                                       |https://github.com/filecoin-project/notary-governance/issues/667 |checked  |checked  |
+|Greater China Region (GCR)|Guazi Dynamic                                    |https://github.com/filecoin-project/notary-governance/issues/670 |checked  |checked  |
+|Greater China Region (GCR)|IPFSMain                                         |https://github.com/filecoin-project/notary-governance/issues/672 |checked  |checked  |
+|Greater China Region (GCR)|Hangzhou Niutong Information Technology Co., Ltd.|https://github.com/filecoin-project/notary-governance/issues/674 |         |checked  |
+|Greater China Region (GCR)|SXX Future Data                                  |https://github.com/filecoin-project/notary-governance/issues/680 |         |checked  |
+|Greater China Region (GCR)|FileDrive Labs                                   |https://github.com/filecoin-project/notary-governance/issues/684 |         |checked  |
+|Greater China Region (GCR)|Tianji Studio                                    |https://github.com/filecoin-project/notary-governance/issues/687 |checked  |checked  |
+|Greater China Region (GCR)|ByteBase                                         |https://github.com/filecoin-project/notary-governance/issues/689 |checked  |checked  |
+|Greater China Region (GCR)|BigFrog Technology                               |https://github.com/filecoin-project/notary-governance/issues/690 |         |checked  |
+|Greater China Region (GCR)|BingHe Web3.0 Lab                                |https://github.com/filecoin-project/notary-governance/issues/699 |checked  |checked  |
+|Greater China Region (GCR)|NonEntropy Tech.                                 |https://github.com/filecoin-project/notary-governance/issues/700 |checked  |checked  |
+|Greater China Region (GCR)|New Web Group                                    |https://github.com/filecoin-project/notary-governance/issues/713 |checked  |checked  |
+|Greater China Region (GCR)|MS Cloud                                         |https://github.com/filecoin-project/notary-governance/issues/719 |checked  |checked  |
+|Greater China Region (GCR)|DeFIL                                            |https://github.com/filecoin-project/notary-governance/issues/720 |checked  |checked  |
+|Greater China Region (GCR)|Genesis                                          |https://github.com/filecoin-project/notary-governance/issues/732 |checked  |checked  |
+|Greater China Region (GCR)|IPFS.CN                                          |https://github.com/filecoin-project/notary-governance/issues/734 |         |checked  |
+|Greater China Region (GCR)|TAKI Chain                                       |https://github.com/filecoin-project/notary-governance/issues/736 |         |checked  |
+|Greater China Region (GCR)|Ewesion                                          |https://github.com/filecoin-project/notary-governance/issues/740 |         |checked  |
+|Greater China Region (GCR)|Tokencan                                         |https://github.com/filecoin-project/notary-governance/issues/746 |         |checked  |
+|Greater China Region (GCR)|Chengdu Codoon Health Technology Co., LTD        |https://github.com/filecoin-project/notary-governance/issues/752 |         |checked  |
+|Greater China Region (GCR)|Cabrina Huang                                    |https://github.com/filecoin-project/notary-governance/issues/763#|checked  |checked  |
+|Greater China Region (GCR)|STCould                                          |https://github.com/filecoin-project/notary-governance/issues/764 |checked  |checked  |
+|Greater China Region (GCR)|POW POWER                                        |https://github.com/filecoin-project/notary-governance/issues/765 |checked  |checked  |
+|Greater China Region (GCR)|Interstellar Storage（ShenZhen）                   |https://github.com/filecoin-project/notary-governance/issues/768 |         |checked  |
+|Greater China Region (GCR)|1475                                             |https://github.com/filecoin-project/notary-governance/issues/770 |checked  |checked  |
+|Greater China Region (GCR)|Fog Meta                                         |https://github.com/filecoin-project/notary-governance/issues/772 |         |checked  |
+|Greater China Region (GCR)|Pangod                                           |https://github.com/filecoin-project/notary-governance/issues/775 |         |checked  |
+|North America             |Textile                                          |https://github.com/filecoin-project/notary-governance/issues/53  |checked  |         |
+|North America             |Glif                                             |https://github.com/filecoin-project/notary-governance/issues/467 |checked  |         |
+|North America             |TinfraAC                                         |https://github.com/filecoin-project/notary-governance/issues/470 |checked  |         |
+|North America             |Kernelogic                                       |https://github.com/filecoin-project/notary-governance/issues/658 |checked  |checked  |
+|North America             |Tech Greedy                                      |https://github.com/filecoin-project/notary-governance/issues/664 |checked  |checked  |
+|North America             |TopBlocks                                        |https://github.com/filecoin-project/notary-governance/issues/675 |         |checked  |
+|North America             |NFTSTAR                                          |https://github.com/filecoin-project/notary-governance/issues/693 |checked  |checked  |
+|North America             |Aifabot                                          |https://github.com/filecoin-project/notary-governance/issues/698 |         |checked  |
+|North America             |Gate.io                                          |https://github.com/filecoin-project/notary-governance/issues/704 |checked  |checked  |
+|North America             |New Huo Pool                                     |https://github.com/filecoin-project/notary-governance/issues/708 |         |checked  |
+|North America             |ORIGIN Storage                                   |https://github.com/filecoin-project/notary-governance/issues/710 |checked  |checked  |
+|North America             |Ipollo                                           |https://github.com/filecoin-project/notary-governance/issues/721 |checked  |checked  |
+|North America             |Top Value Limited                                |https://github.com/filecoin-project/notary-governance/issues/729 |         |checked  |
+|North America             |LendMi team                                      |https://github.com/filecoin-project/notary-governance/issues/730 |         |checked  |
+|North America             |Banyan                                           |https://github.com/filecoin-project/notary-governance/issues/742 |checked  |checked  |
+|North America             |Acrontech Inc.                                   |https://github.com/filecoin-project/notary-governance/issues/743 |         |checked  |
+|North America             |Saukibit, Inc. (DBA Canza Finance)               |https://github.com/filecoin-project/notary-governance/issues/744 |         |checked  |
+|North America             |XnMatrix                                         |https://github.com/filecoin-project/notary-governance/issues/747 |         |checked  |
+|North America             |Filecoin Foundation                              |https://github.com/filecoin-project/notary-governance/issues/750 |checked  |checked  |
+|North America             |Koda Inc.                                        |https://github.com/filecoin-project/notary-governance/issues/754 |         |checked  |
+|North America             |SECUREXPERTS Inc.                                |https://github.com/filecoin-project/notary-governance/issues/756 |         |checked  |
+|North America             |Ghost Byte Inc                                   |https://github.com/filecoin-project/notary-governance/issues/760 |         |checked  |
+|North America             |PiKNiK                                           |https://github.com/filecoin-project/notary-governance/issues/776 |checked  |checked  |
+|North America             |Nebula Block Data                                |https://github.com/filecoin-project/notary-governance/issues/777 |         |checked  |
+|North America             |FilSwan                                          |https://github.com/filecoin-project/notary-governance/issues/778 |checked  |checked  |
+|North America             |Nick Merrick                                     |https://github.com/filecoin-project/notary-governance/issues/779 |         |checked  |
+|Oceania                   |West Labs                                        |https://github.com/filecoin-project/notary-governance/issues/430 |checked  |         |
+|Oceania                   |OpenGate Technology                              |https://github.com/filecoin-project/notary-governance/issues/673 |         |checked  |
+|Oceania                   |Holon Global Investments                         |https://github.com/filecoin-project/notary-governance/issues/748 |         |checked  |
+
 
 
 
