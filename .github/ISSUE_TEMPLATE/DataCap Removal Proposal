@@ -1,4 +1,4 @@
-name: DataCap Removal Proposal
+name: datacap-removal-proposal.yml
 description: Use this application form to modify/remove DataCap from a certain address
 body:
 - type: markdown
