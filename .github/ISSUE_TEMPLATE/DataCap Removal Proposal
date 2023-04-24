@@ -1,0 +1,32 @@
+name: DataCap Removal Proposal
+description: Use this application form to modify/remove DataCap from a certain address
+body:
+- type: markdown
+  attributes:
+    value: |
+      # DataCap Removal Proposal
+      To modify/remove DataCap from an address on the Filecoin network, please fill out the following form
+- type: markdown
+  attributes:
+    value: |
+      # Core Information
+- type: input
+  attributes:
+    label: Client Application URL or Application Number
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Client Name
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Client Address
+  validations:
+    required: true
+ - type: input
+  attributes:
+    label: Amount of DataCap to be removed
+  validations:
+    required: true
