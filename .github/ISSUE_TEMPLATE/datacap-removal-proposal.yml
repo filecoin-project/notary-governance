@@ -1,5 +1,6 @@
 name: DataCap Removal Proposal
 description: Use this application form to modify/remove DataCap from a certain addresses
+labels: Proposal
 assignees: simonkim0515
 body:
 - type: markdown
