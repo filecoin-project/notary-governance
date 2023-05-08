@@ -36,7 +36,7 @@ Within this repository, you will find:
 
 Overview of the Dispute resolution process: 
 - Claimant submits [form](https://forms.gle/WTPCxsi12PLVzjWh8) in the [T&T Dispute Tracker](https://www.notion.so/filecoin/T-T-Dispute-Tracker-d28b93677cb544b48e77b585856601cf).
-- Responder is notified by the T&T WG Lead and allowed to submit additional details in the T&T WG slack or present at the T&T WG Call.
+- Responder is notified by the T&T WG Lead and allowed to submit additional details in the [T&T WG slack](https://filecoinproject.slack.com/archives/C0405HANNBT) or present at the T&T WG Call.
 - T&T WG reviews all relevant data.
 - Repercussions announced and enacted.
 
