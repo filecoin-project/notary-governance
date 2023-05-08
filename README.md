@@ -30,25 +30,43 @@ Within this repository, you will find:
 
 ## Dispute / Audit Framework
 
-The process for filing a Dispute / Audit request is as follows: 
-1. An issue must be filed detailing the following information: 
-- Who is the Dispute / Audit request against? 
+ Last updated: 2023-05-05	
 
-_The submission must include the on-chain addresses of the parties involved and the name of the Notary involved (if applicable)._
+**The person opening the dispute is referred to as ‘Claimant’ and the stakeholder against which the dispute is opened is referred to as ‘Responder'**
 
-- Why is the request being filed?
+Overview of the Dispute resolution process: 
+- Claimant submits [form](https://forms.gle/WTPCxsi12PLVzjWh8) in the [T&T Dispute Tracker](https://www.notion.so/filecoin/T-T-Dispute-Tracker-d28b93677cb544b48e77b585856601cf).
+- Responder is notified by the T&T WG Lead and allowed to submit additional details in the T&T WG slack or present at the T&T WG Call.
+- T&T WG reviews all relevant data.
+- Repercussions announced and enacted.
 
-_A concise description detailing the issue at hand. Notably some specific harm must be detailed (either a violation of the overarching principles, a violation of a Notary's own attested allocation plan, a violation of the agreed upon [operating guidelines](/notaries#operational-guidelines), or some other act of impropriety._
+The process for filing a Dispute request is as follows:
 
-- What is the substantiating evidence? 
+An issue must be filed on the [T&T Dispute Tracker](https://www.notion.so/filecoin/T-T-Dispute-Tracker-d28b93677cb544b48e77b585856601cf)using the [form](https://forms.gle/WTPCxsi12PLVzjWh8)
 
-_Links to the relevant transaction ids or other substantiating evidence._
+*Although the WG prefers and strongly encourage full transparency, we understand some situations may require more discretion, so disputes can be submitted as 'anonymous'.*
 
-2. Once an issue has been filed, the community will review the submission to affirm the legitimacy of the claim. Issues that are not properly substantiated may require additional information or be closed. 
+Once a dispute is filed, the T&T WG Lead will discuss it in the WG calls. The average time for a dispute to be resolved is two weeks based on the principles of optimistic governance but some disputes may take longer depending on the complexity and response times of the claimant and responder. The status will be trackable and updated at all times in the public dispute tracker
 
-3. If an issue is filed and has substantial evidence, a Notary will have 5 days to provide a response in the same issue. 
+*Claimants are encouraged to cross-post the dispute in the T&T WG channel to bring the community’s attention to the dispute.*
 
-4. Based on the evidence and the response, the community can adjudicate on the severity of the issue at hand at the next governance call - or pending an imminent need an emergency governance call may take place. If there is a flagrant violation of the Principles, operating guidelines, or other foundational items - a Notary may be subject to removal. If the violation is of a smaller scale, the Notary may simply be given a warning (and this repo may receive a PR to provide clarity for other Notaries). Auxillary information (including evidence that the Notary acted in good faith) should be considered as well. 
+The claimant is requested to complete all fields including a description of the issue at hand. Notably, some specific abuse must be detailed, such as:
+
+- A violation of the overarching principles
+- A violation of a Notary's own attested allocation plan
+- A violation of the agreed-upon [operating guidelines](https://github.com/filecoin-project/notary-governance/blob/main/notaries#operational-guidelines), or some other act of impropriety. 
+
+Supporting the dispute with substantiating evidence is highly encouraged, such as links to the relevant transaction ids on-chain, screenshots, or other evidence.
+
+Claimants are discouraged from making personal attacks against any stakeholder when submitting details in the T&T dispute tracker anbd follow the [Fil+ Code of Conduct](https://medium.com/filecoin-plus/fil-code-of-conduct-9cd044e7bcaf).
+
+Based on the evidence, the response to a dispute, and discussions of the situation in the T&T WG calls, some possible repercussions and outcomes may include but are not limited to:
+
+- Removal from the program 
+- Loosing rights as a notary
+- Revoking of allocated DataCap
+- Being asked to step away from the Fil+ community. 
+- A warning coupled with restrictions
 
 
 ## Governance, Contributing and Iteration Process 
