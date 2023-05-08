@@ -36,7 +36,7 @@ Within this repository, you will find:
 
 Overview of the Dispute resolution process: 
 - Claimant submits [form](https://forms.gle/WTPCxsi12PLVzjWh8) in the [T&T Dispute Tracker](https://www.notion.so/filecoin/T-T-Dispute-Tracker-d28b93677cb544b48e77b585856601cf).
-- Responder is notified by the T&T WG Lead and allowed to submit additional details in the T&T WG slack or present at the T&T WG Call.
+- Responder is notified by the T&T WG Lead and allowed to submit additional details in the [T&T WG slack](https://filecoinproject.slack.com/archives/C0405HANNBT) or present at the [T&T WG Call](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cXZkdjZ1MThkZ2w3MHFkMTM0YTdoZ2RtbmFfMjAyMzA1MTZUMTUzMDAwWiByYWdoYXYuYWdnYXJ3YWxAcHJvdG9jb2wuYWk&tmsrc=raghav.aggarwal%40protocol.ai&scp=ALL).
 - T&T WG reviews all relevant data.
 - Repercussions announced and enacted.
 
@@ -46,7 +46,7 @@ An issue must be filed on the [T&T Dispute Tracker](https://www.notion.so/fileco
 
 *Although the WG prefers and strongly encourage full transparency, we understand some situations may require more discretion, so disputes can be submitted as 'anonymous'.*
 
-Once a dispute is filed, the T&T WG Lead will discuss it in the WG calls. The average time for a dispute to be resolved is two weeks based on the principles of optimistic governance but some disputes may take longer depending on the complexity and response times of the claimant and responder. The status will be trackable and updated at all times in the public dispute tracker
+Once a dispute is filed, the T&T WG Lead will discuss it in the WG calls. The average time for a dispute to be resolved is two weeks based on the principles of optimistic governance but some disputes may take longer depending on the complexity and response times of the claimant and responder. The status will be trackable and updated at all times in the public dispute tracker.
 
 *Claimants are encouraged to cross-post the dispute in the T&T WG channel to bring the community’s attention to the dispute.*
 
@@ -54,18 +54,18 @@ The claimant is requested to complete all fields including a description of the 
 
 - A violation of the overarching principles
 - A violation of a Notary's own attested allocation plan
-- A violation of the agreed-upon [operating guidelines](https://github.com/filecoin-project/notary-governance/blob/main/notaries#operational-guidelines), or some other act of impropriety. 
+- A violation of the agreed-upon [operating guidelines](https://github.com/filecoin-project/notary-governance/blob/main/notaries#operational-guidelines), or some other act of impropriety 
 
 Supporting the dispute with substantiating evidence is highly encouraged, such as links to the relevant transaction ids on-chain, screenshots, or other evidence.
 
-Claimants are discouraged from making personal attacks against any stakeholder when submitting details in the T&T dispute tracker anbd follow the [Fil+ Code of Conduct](https://medium.com/filecoin-plus/fil-code-of-conduct-9cd044e7bcaf).
+Claimants are discouraged from making personal attacks against any stakeholder when submitting details in the T&T dispute tracker and follow the [Fil+ Code of Conduct](https://medium.com/filecoin-plus/fil-code-of-conduct-9cd044e7bcaf).
 
 Based on the evidence, the response to a dispute, and discussions of the situation in the T&T WG calls, some possible repercussions and outcomes may include but are not limited to:
 
 - Removal from the program 
 - Loosing rights as a notary
 - Revoking of allocated DataCap
-- Being asked to step away from the Fil+ community. 
+- Being asked to step away from the Fil+ community 
 - A warning coupled with restrictions
 
 
