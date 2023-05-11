@@ -9,7 +9,7 @@ All scoring decisions should happen in public on the issue as filed, and iterati
 
 ## Notary Rubric
 
-Link to updated Google Sheet rubric, with calculations: https://docs.google.com/spreadsheets/d/1ByIU65NQoUtibdOL3R8iIrFwTV7Uy4QnwOt92szt6I0
+Link to updated Google Sheet rubric, with calculations: https://docs.google.com/spreadsheets/d/172-sbd5qzdbSofvL_C5FHRyXEsTUpMiKspItygAVJA4
 
 
 
