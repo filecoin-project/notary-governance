@@ -63,7 +63,7 @@ Claimants are discouraged from making personal attacks against any stakeholder w
 Based on the evidence, the response to a dispute, and discussions of the situation in the T&T WG calls, some possible repercussions and outcomes may include but are not limited to:
 
 - Removal from the program 
-- Loosing rights as a notary
+- Losing rights as a notary
 - Revoking of allocated DataCap
 - Being asked to step away from the Fil+ community 
 - A warning coupled with restrictions
