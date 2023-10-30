@@ -74,7 +74,7 @@ Within this repository are the governing documents, selection criteria, and proc
 
 After community discussion, pull requests are encouraged where open discussion can happen asynchronously via the community - please be sure to link the relevant issues to the changes in your PR. Similar to a FIP, any proposed changes must be done within the constraints of improving the Mechanisms and Operations to better meet the overarching Principles.
 
-Please note our community governance calls will take place every other Tuesday - there are (2) calls each day to accomodate time zones. 8am PT // 4pm UTC AND 6pm PT // 0200am UTC. Please see the community calendar for the accurate dates, follow the repo (where agenda issues will be filed), or join our Slack channel!
+Please note our community governance calls will take place every other Tuesday - there are (2) calls each day to accomodate time zones. 8am PT // 1400 UTC AND 1800PT // 0000am UTC. Please see the community calendar for the accurate dates/times relative to your local timezone, follow the repo (where agenda issues will be filed), or join our Slack channel!
 - [Community Calendar](https://calendar.google.com/calendar/u/1?cid=Y19rMWdrZm9vbTE3ZzBqOGM2YmFtNnVmNDNqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Zoom link](https://fil-org.zoom.us/my/filecoinplus?pwd=VHpNSnd0dkJRdWozNi9Xc3NmeGFhZz09), Passcode: *N*otary
 - Please join our Slack channel, #fil-plus, if you have questions. 
