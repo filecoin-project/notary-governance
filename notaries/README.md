@@ -10,7 +10,7 @@ Following the proposal made [here](https://github.com/filecoin-project/notary-go
 Organizations designing a pathway to DataCap will need to submit ONE application PER pathway. 
 
 ## Checklist:
-- [ ] Submit GitHub issue Application: [LINK](https://github.com/filecoin-project/notary-governance/blob/main/.github/ISSUE_TEMPLATE/notary-application.md)
+- [ ] Submit GitHub issue Application: [LINK]([https://github.com/filecoin-project/notary-governance/blob/main/.github/ISSUE_TEMPLATE/notary-application.md](https://github.com/filecoin-project/notary-governance/issues/new?assignees=&labels=Notary+Application&projects=&template=Allocator+application.md&title=))
 - [ ] Use Google Doc for drafting and async edits of full application: [LINK](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
 - [ ] Submit all responses to Airtable Form: [LINK](https://airtable.com/appvyE0VHcgpAkt4Z/shrQxaAIsD693e1ns)
 - [ ] Monitor GitHub issue for feedback from Fil+ Governance Team
