@@ -1,7 +1,7 @@
 ---
 name: Notary Allocator Application
 about: Application to become a Notary Allocator and recieve DataCap for v5 election cycle
-title: ''
+title: '[v5 Notary Allocator Application]'
 labels: Notary Application
 assignees: ''
 
