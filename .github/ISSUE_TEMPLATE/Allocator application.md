@@ -30,10 +30,10 @@ or Manual (human-in-the-loop at some phase):
 
 
 # 2. Access allocator application (download to save answers)
-This google doc version of the allocator application can be used to save your answers if you are not prepared to submit the application in Step 3 below https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy
+Click link below to access a google doc version of the allocator application that can be used to save your answers if you are not prepared to fully submit the application in Step 3. https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy
 
 # 3. Submit allocation application 
-Clink link below to access allocator questionnaire and officially submit your answers
+Clink link below to access allocator questionnaire and officially submit your answers:
 https://airtable.com/appvyE0VHcgpAkt4Z/shrQxaAIsD693e1ns
 
 Note: Sections of your responses WILL BE posted back into the GitHub issue tracking your application. 
