@@ -1,12 +1,14 @@
 ---
-name: Notary Application
+name: DEPRECATED Notary Application
 about: Application to become a Notary and recieve DataCap to allocation (both new and existing notaries should fill this out)
 title: ''
 labels: Notary Application
 assignees: ''
 
 ---
-# Notary Application
+# DEPRECATED Notary Application
+**Please use the new Allocator Application Template**
+
 
 To apply to be a Fil+ Notary, please review the Notary Overview [here](https://github.com/filecoin-project/notary-governance/tree/main/notaries#overview) and then fill out the following form. 
 
