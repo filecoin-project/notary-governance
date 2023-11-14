@@ -1,6 +1,40 @@
 # Overview
 Notaries are selected to act as [fiduciaries](https://www.merriam-webster.com/dictionary/fiduciary) for the Filecoin network. Notaries are entrusted to uphold the [Principles](https://github.com/filecoin-project/FIPs/blob/fip-0003/FIPS/fip-0003.md/#principles) of the program - responsibly allocating DataCap to help foster legitimate use cases on Filecoin. This document aims to provide additional specificity to the role/responsibility of Notaries, define the application and selection process, and the process for making changes. 
 
+
+# v5 Notary Allocator Election Cycle
+*Launching November 2023*
+
+Following the proposal made [here](https://github.com/filecoin-project/notary-governance/issues/984) for a new Notary Election Cycle focusing on "Meta-Pathways", we will solicit applications from the Filecoin community to become trusted fiduciaries in the Filecoin Plus program. The overall process will be similar to previous Notary Election cycles, with interested parties submiting details to the Governance team for review. We will update this ReadMe section with relevant deatils, checklists, and links to supporting documentation.
+
+Organizations designing a pathway to DataCap will need to submit ONE application PER pathway. 
+
+## Checklist:
+- [ ] Submit GitHub issue Application: [LINK](https://github.com/filecoin-project/notary-governance/blob/main/.github/ISSUE_TEMPLATE/notary-application.md)
+- [ ] Use Google Doc for drafting and async edits of full application: [LINK](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
+- [ ] Submit all responses to Airtable Form: [LINK](https://airtable.com/appvyE0VHcgpAkt4Z/shrQxaAIsD693e1ns)
+- [ ] Monitor GitHub issue for feedback from Fil+ Governance Team
+
+## Timeline:
+* Q4 '23: Solicit applications
+* Q4 '23: Initial review and feedback from Fil+ Governance Team
+* Q1 '24: Public scoring and selections
+* Q1 '24: Ratification and onboarding new notary allocators
+* Q2 '24: Transition to rolling applications
+* Q2 '24: Ongoing compliance checks of pathways, requests for more DataCap from Root Key Holders
+
+
+## Links:
+*Updates to follow*
+* FIL Istanbul and LabWeek Videos
+* Application Repo (filtered for v5 applicants)
+* Google Doc for drafting [application](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
+* v5 Scoring Rubric
+* Tooling resources
+
+
+
+
 ## Current active notaries
 | Organization                                                 | Point of Contact Name          | Election Round | Status   | Location                   | Notary Application Link                                           |
 |--------------------------------------------------------------|--------------------------------|----------------|----------|----------------------------|-------------------------------------------------------------------|
@@ -142,14 +176,6 @@ As stated above, Notaries are given a high degree of autonomy in their decision 
 
 * **Community Governance Participation**: It is expected that Notaries regularly attend the scheduled Governance calls. As these calls are a forum to shape this process, it is important to ensure Notaries are present to provide their context, learnings, and input. 
 
-## Application / Selection Process
-For those interested in providing this service to the Filecoin network, they may apply to this role by filing an Issue [here](https://github.com/filecoin-project/notary-governance/issues/new/choose). Applications for this third round closed in March, and we anticipate opening the fourth round of notary applications in Q4 of 2022.
-
-Please note, applications are reviewed during the [community governance call](/README.md#governance-and-iteration-process) - and will be graded according to this community defined [criteria](/notaries/templates#overview). Edits to the criteria, will follow the same process as any proposed change to this repository, defined [here](/README.md#process-for-modifications).
-
-Notaries were selected by regions based on the issue proposed [here](https://github.com/filecoin-project/notary-governance/issues/479).
-
-Prospective Notaries will be ranked based on the rounded score used to determine their DataCap allocation. 
 
 # Notary Sets Use Cases 
   Support (1) or more the following, which can be linked to in a separate doc:
