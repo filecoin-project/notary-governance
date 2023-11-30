@@ -15,13 +15,17 @@ Organizations designing a pathway to DataCap will need to submit ONE application
 - [ ] Submit all responses to Airtable Form: [LINK](https://airtable.com/appvyE0VHcgpAkt4Z/shrQxaAIsD693e1ns)
 - [ ] Monitor GitHub issue for feedback from Fil+ Governance Team
 
-## Timeline:
+## Broad Timeline:
 * Q4 '23: Solicit applications
 * Q4 '23: Initial review and feedback from Fil+ Governance Team
 * Q1 '24: Public scoring and selections
 * Q1 '24: Ratification and onboarding new notary allocators
 * Q2 '24: Transition to rolling applications
 * Q2 '24: Ongoing compliance checks of pathways, requests for more DataCap from Root Key Holders
+
+## Key Dates:
+* November 11 - January 20: Applications Open
+* January 20, 2024: Deadline for v5 Allocator Application
 
 
 ## Links:
