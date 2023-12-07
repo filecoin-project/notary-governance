@@ -33,7 +33,7 @@ Organizations designing a pathway to DataCap will need to submit ONE application
 * FIL Istanbul and LabWeek [Videos](https://www.youtube.com/watch?v=57Ua4AEWe_g)
 * Application Repo ([filtered for v5 applicants](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+v5+Notary+Allocator+Application+label%3A%22Notary+Application%22))
 * Google Doc for drafting [application](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
-* v5 Scoring Rubric
+* v5 Scoring [Rubric](https://docs.google.com/spreadsheets/d/1F5afMkeoJREwzzWDtG5OPTmmzH9L0gLXSQLhW1Gl0TI)
 * Tooling resources
 
 
