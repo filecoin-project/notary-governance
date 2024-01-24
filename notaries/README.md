@@ -34,7 +34,7 @@ Organizations designing a pathway to DataCap will need to submit ONE application
 * Application Repo ([filtered for v5 applicants](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+v5+Notary+Allocator+Application+label%3A%22Notary+Application%22))
 * Google Doc for drafting [application](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
 * v5 Scoring [Rubric](https://docs.google.com/spreadsheets/d/1F5afMkeoJREwzzWDtG5OPTmmzH9L0gLXSQLhW1Gl0TI)
-* Tooling resources (https://docs.google.com/spreadsheets/d/1Rml1klPMHUB1PGQZ5yGARGnIEycpJKqh1OEVSLTk4A0/edit?usp=sharing)
+* Tooling resources as of Jan 2024 [Link](https://docs.google.com/spreadsheets/d/1Rml1klPMHUB1PGQZ5yGARGnIEycpJKqh1OEVSLTk4A0/edit?usp=sharing)
 
 
 
