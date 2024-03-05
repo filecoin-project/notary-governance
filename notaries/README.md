@@ -35,6 +35,7 @@ Organizations designing a pathway to DataCap will need to submit ONE application
 * Google Doc for drafting [application](https://docs.google.com/document/d/1-Ze8bo7ZlIJe8qX0YSFNPTka4CMprqoNB1D6V7WJJjo/copy)
 * v5 Scoring [Rubric](https://docs.google.com/spreadsheets/d/1F5afMkeoJREwzzWDtG5OPTmmzH9L0gLXSQLhW1Gl0TI)
 * Tooling resources as of Jan 2024 [Link](https://docs.google.com/spreadsheets/d/1Rml1klPMHUB1PGQZ5yGARGnIEycpJKqh1OEVSLTk4A0/edit?usp=sharing)
+* Accepted Allocator Pathways [Link](https://airtable.com/appvyE0VHcgpAkt4Z/shrQXdIfoumF7ZvOn)
 
 
 
