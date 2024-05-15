@@ -6,9 +6,9 @@
 
 To view other updated reference links for the Fil+ program, please see
 - For information on the open and pending DataCap deals, please see [FIDL's Allocator.tech](https://allocator.tech)
-- For information on the governance and open proposals, please see 
+- For information on support issues or a listing of all current Allocators, please see [Allocator Registry](https://github.com/filecoin-project/Allocator-Registry)
 - For getting in touch, please reach out in [SLACK](https://filecoinfoundation.slack.com/archives/C01DLAPKDGX)
-- For learning more about the program, check out the bi-weekly recorded governance meetings on [Youtube](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kYN1hJpERMUxTCbFC4yZwN)
+- Bi-weekly recorded Fil+ governance meetings on [Youtube](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kYN1hJpERMUxTCbFC4yZwN)
 
 
 
