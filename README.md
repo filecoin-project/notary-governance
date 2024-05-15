@@ -27,11 +27,10 @@ ________________________
 
 
 
-## Overview
+## Notary Program Overview (Now Sunset)
 
-The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md) and illustrated in the following diagram.
+The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md)
 
-<img src="images/governance-layers.jpg" alt="governance-layers" width="70%" height="70%">
 
 Within this repository, you will find: 
 - Increased specification, governance, and evolution for Mechanisms and Operations layers.
