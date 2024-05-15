@@ -1,3 +1,33 @@
+# This Repo is no longer maintained 
+*This repository for the Fil+ Notaries has been sunset.  The updated repositority for ALLOCATORS has been created and is now maintained at [Github Goverance Repo](https://github.com/filecoin-project/Allocator-Governance)*
+
+
+
+
+To view other updated reference links for the Fil+ program, please see
+- For information on the open and pending DataCap deals, please see [FIDL's Allocator.tech](https://allocator.tech)
+- For information on the governance and open proposals, please see 
+- For getting in touch, please reach out in [SLACK](https://filecoinfoundation.slack.com/archives/C01DLAPKDGX)
+- For learning more about the program, check out the bi-weekly recorded governance meetings on [Youtube](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kYN1hJpERMUxTCbFC4yZwN)
+
+
+
+
+
+
+
+________________________
+________________________
+________________________
+________________________
+
+
+
+
+
+
+
+## Overview
 
 The purpose of this repository is to manage the governance and evolution of specific Mechanisms and Operations of the program as insantiated in this [FIP](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md) and illustrated in the following diagram.
 
